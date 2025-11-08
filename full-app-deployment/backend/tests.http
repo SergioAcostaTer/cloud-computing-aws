@@ -1,0 +1,59 @@
+### 🌍 Global Variables
+@host = https://s2i1g5n5nb.execute-api.us-east-1.amazonaws.com/prod
+@apiKey = DZmbah46ih8AJF9KaTRxB1CggnBWkB7f2QT9QCMt
+@id = 93a60b79-095e-4b95-9b6c-4c3af0b365e6
+
+### 🚀 1. Create a new Bitcoin position
+POST {{host}}/positions
+Content-Type: application/json
+x-api-key: {{apiKey}}
+
+{
+  "symbol": "BTCUSDT",
+  "quantity": 0.25,
+  "type": "buy",
+  "entry": 68000.50,
+  "date": "2025-10-12T00:00:00Z"
+}
+
+### 📋 2. Get all positions
+GET {{host}}/positions
+Accept: application/json
+x-api-key: {{apiKey}}
+
+### 🔍 3. Get position by ID
+# 🟡 Replace {{id}} with a real ID from the GET above
+GET {{host}}/positions/{{id}}
+Accept: application/json
+x-api-key: {{apiKey}}
+
+### ✏️ 4. Update position by ID
+PUT {{host}}/positions/{{id}}
+Content-Type: application/json
+x-api-key: {{apiKey}}
+
+{
+  "symbol": "BTCUSDT",
+  "quantity": 0.5,
+  "type": "sell",
+  "entry": 69000.00,
+  "date": "2025-10-13T00:00:00Z"
+}
+
+### ❌ 5. Delete position by ID
+DELETE {{host}}/positions/{{id}}
+x-api-key: {{apiKey}}
+
+### 🧭 6. Swagger Documentation (UI)
+GET {{host}}/openapi.json
+Accept: application/json
+x-api-key: {{apiKey}}
+
+### 🏠 7. Frontend (HTML interface)
+GET {{host}}/
+x-api-key: {{apiKey}}
+
+### 🛠️ 8. Health Check
+GET {{host}}/health
+x-api-key: {{apiKey}}
+Accept: application/json
