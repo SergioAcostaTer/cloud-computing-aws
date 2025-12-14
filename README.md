@@ -17,20 +17,5 @@ Kinesis → Firehose → S3 (raw) → Glue Crawler → Glue Data Catalog
 
 ## Despliegue de infraestructura
 ```powershell
-cd infrastructure/scripts
-.\setup.ps1
-.\glue.ps1
-```
-
-## Envío de datos
-
-```bash
-cd src/producer
-python kinesis.py
-```
-
-## Limpieza de recursos
-
-```powershell
-.\cleanup.ps1
-```
+cd scripts
+.\run_all.ps1

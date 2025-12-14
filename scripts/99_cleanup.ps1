@@ -1,3 +1,5 @@
+. "$PSScriptRoot/config/variables.ps1"
+
 Write-Host "Iniciando limpieza TOTAL de recursos para la cuenta $env:ACCOUNT_ID..." -ForegroundColor Red
 
 # --- 1. LIMPIEZA DE GLUE (LO NUEVO) ---

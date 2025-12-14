@@ -1,3 +1,5 @@
+. "$PSScriptRoot/config/variables.ps1"
+
 # 1. Crear Base de Datos de Glue
 # Es como crear una base de datos vacía en SQL, un contenedor lógico.
 Write-Host "Creando Base de Datos 'energy_db'..."

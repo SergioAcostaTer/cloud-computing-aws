@@ -1,3 +1,5 @@
+. "$PSScriptRoot/config/variables.ps1"
+
 # 1. Crear Bucket S3
 aws s3 mb "s3://$env:BUCKET_NAME"
 
@@ -11,8 +13,8 @@ aws s3api put-object --bucket $env:BUCKET_NAME --key errors/
 # 3. Crear Stream de Kinesis
 aws kinesis create-stream --stream-name "consumo-energetico-stream" --shard-count 1
 
-# Esperar 5 segundos para evitar errores de propagación
-Start-Sleep -Seconds 5
+# Esperar 15 segundos para evitar errores de propagación
+Start-Sleep -Seconds 15
 
 # 4. Crear Firehose (Conecta Kinesis con S3)
 aws firehose create-delivery-stream `
