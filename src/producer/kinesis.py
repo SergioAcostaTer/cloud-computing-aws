@@ -5,7 +5,7 @@ import json
 
 # Configuración de constantes
 STREAM_NAME = 'consumo-energetico-stream'
-INPUT_FILE = 'datos.json'
+INPUT_FILE = '../data/datos.json'
 
 # Inicializamos el cliente de Kinesis usando boto3
 kinesis = boto3.client('kinesis')
