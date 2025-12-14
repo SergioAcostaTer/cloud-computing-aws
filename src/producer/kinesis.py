@@ -50,7 +50,7 @@ def run_producer():
             # Send record to Kinesis
             response = kinesis.put_record(
                 StreamName=STREAM_NAME,
-                Data=json.dumps(payload), # Convert dict to JSON string
+                Data=json.dumps(payload) + '\n',  # Newline for Firehose compatibility
                 PartitionKey=tipo_demanda # Use type as partition key
             )
             
