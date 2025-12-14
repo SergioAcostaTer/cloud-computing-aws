@@ -1,12 +1,3 @@
-# --- VARIABLES ---
-$env:AWS_REGION = "us-east-1"
-# Recuperamos los mismos datos que en el script anterior
-$env:ACCOUNT_ID = (aws sts get-caller-identity --query Account --output text).Trim()
-$env:ROLE_ARN = (aws iam get-role --role-name LabRole --query 'Role.Arn' --output text).Trim()
-$env:BUCKET_NAME = "datalake-consumo-energetico-$($env:ACCOUNT_ID)"
-
-Write-Host "Configurando AWS Glue para la cuenta $env:ACCOUNT_ID..." -ForegroundColor Cyan
-
 # 1. Crear Base de Datos de Glue
 # Es como crear una base de datos vacía en SQL, un contenedor lógico.
 Write-Host "Creando Base de Datos 'energy_db'..."

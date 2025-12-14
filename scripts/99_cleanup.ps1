@@ -1,8 +1,3 @@
-# --- VARIABLES ---
-$env:AWS_REGION = "us-east-1"
-$env:ACCOUNT_ID = (aws sts get-caller-identity --query Account --output text).Trim()
-$env:BUCKET_NAME = "datalake-consumo-energetico-$($env:ACCOUNT_ID)"
-
 Write-Host "Iniciando limpieza TOTAL de recursos para la cuenta $env:ACCOUNT_ID..." -ForegroundColor Red
 
 # --- 1. LIMPIEZA DE GLUE (LO NUEVO) ---

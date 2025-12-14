@@ -1,1 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# History Visual Studio Code
 .history/
