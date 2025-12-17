@@ -17,7 +17,7 @@ Move-Item "function.zip" $ZIP_PATH -Force
 Pop-Location
 
 # Delete old function if exists
-aws lambda delete-function --function-name $LAMBDA_NAME 2>$null
+aws lambda delete-function --function-name $LAMBDA_NAME 2>&1 | Out-Null
 
 # Create Function
 Write-Host "Creating Lambda..."
@@ -41,8 +41,8 @@ Start-Sleep -Seconds 5
 Write-Host "`n[2/3] Creating Firehose..." -ForegroundColor Yellow
 $DELIVERY_STREAM_NAME = "consumo-energetico-firehose"
 
-# Cleanup old stream
-aws firehose delete-delivery-stream --delivery-stream-name $DELIVERY_STREAM_NAME 2>$null
+# Cleanup old stream (Silence error if not exists)
+aws firehose delete-delivery-stream --delivery-stream-name $DELIVERY_STREAM_NAME 2>&1 | Out-Null
 Start-Sleep -Seconds 5
 
 # Create Temp Config JSON (Fixes PowerShell quote issues)
