@@ -7,219 +7,1128 @@
         "label": "Main Grid Meter",
         "readings": [
           {
-            "timestamp": "2025-12-16T18:00:00",
-            "value": 3180.29,
-            "percentage": 0.8,
-            "voltage_v": 230.79,
-            "current_a": 13.78,
-            "temperature_c": 22.5,
+            "timestamp": "2025-12-12T13:00:00",
+            "value": 947.76,
+            "percentage": 0.24,
+            "voltage_v": 238.13,
+            "current_a": 3.98,
+            "temperature_c": 28.7,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T19:00:00",
-            "value": 3354.39,
+            "timestamp": "2025-12-12T14:00:00",
+            "value": 3349.62,
             "percentage": 0.84,
-            "voltage_v": 229.91,
-            "current_a": 14.59,
-            "temperature_c": 35.9,
+            "voltage_v": 230.69,
+            "current_a": 14.52,
+            "temperature_c": 42.7,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T20:00:00",
-            "value": 3230.78,
+            "timestamp": "2025-12-12T15:00:00",
+            "value": 204.78,
+            "percentage": 0.05,
+            "voltage_v": 232.71,
+            "current_a": 0.88,
+            "temperature_c": 34.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T16:00:00",
+            "value": 1996.28,
+            "percentage": 0.5,
+            "voltage_v": 234.03,
+            "current_a": 8.53,
+            "temperature_c": 36.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T17:00:00",
+            "value": 1176.29,
+            "percentage": 0.29,
+            "voltage_v": 226.21,
+            "current_a": 5.2,
+            "temperature_c": 41.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T18:00:00",
+            "value": 3221.68,
             "percentage": 0.81,
-            "voltage_v": 227.68,
-            "current_a": 14.19,
-            "temperature_c": 42.8,
+            "voltage_v": 228.65,
+            "current_a": 14.09,
+            "temperature_c": 26.1,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T21:00:00",
-            "value": 3496.76,
-            "percentage": 0.87,
-            "voltage_v": 239.34,
-            "current_a": 14.61,
+            "timestamp": "2025-12-12T19:00:00",
+            "value": 1960.6,
+            "percentage": 0.49,
+            "voltage_v": 230.93,
+            "current_a": 8.49,
+            "temperature_c": 41.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T20:00:00",
+            "value": 1992.79,
+            "percentage": 0.5,
+            "voltage_v": 222.41,
+            "current_a": 8.96,
             "temperature_c": 43.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T22:00:00",
-            "value": 440.82,
-            "percentage": 0.11,
-            "voltage_v": 224.91,
-            "current_a": 1.96,
-            "temperature_c": 31.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T23:00:00",
-            "value": 647.62,
-            "percentage": 0.16,
-            "voltage_v": 224.09,
-            "current_a": 2.89,
-            "temperature_c": 31.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T00:00:00",
-            "value": 1060.1,
-            "percentage": 0.27,
-            "voltage_v": 237.69,
-            "current_a": 4.46,
-            "temperature_c": 44.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T01:00:00",
-            "value": 1030.56,
-            "percentage": 0.26,
-            "voltage_v": 221.15,
-            "current_a": 4.66,
-            "temperature_c": 33.6,
-            "status": "error"
-          },
-          {
-            "timestamp": "2025-12-17T02:00:00",
-            "value": 3116.1,
-            "percentage": 0.78,
-            "voltage_v": 237.87,
-            "current_a": 13.1,
-            "temperature_c": 25.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T03:00:00",
-            "value": 1398.69,
+            "timestamp": "2025-12-12T21:00:00",
+            "value": 1384.08,
             "percentage": 0.35,
-            "voltage_v": 225.96,
-            "current_a": 6.19,
-            "temperature_c": 21.6,
+            "voltage_v": 222.88,
+            "current_a": 6.21,
+            "temperature_c": 43.7,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T04:00:00",
-            "value": 3187.94,
-            "percentage": 0.8,
-            "voltage_v": 231.85,
-            "current_a": 13.75,
-            "temperature_c": 23.3,
+            "timestamp": "2025-12-12T22:00:00",
+            "value": 2742.32,
+            "percentage": 0.69,
+            "voltage_v": 235.19,
+            "current_a": 11.66,
+            "temperature_c": 23.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T05:00:00",
-            "value": 1484.47,
-            "percentage": 0.37,
-            "voltage_v": 239.43,
-            "current_a": 6.2,
-            "temperature_c": 44.0,
+            "timestamp": "2025-12-12T23:00:00",
+            "value": 3015.32,
+            "percentage": 0.75,
+            "voltage_v": 237.24,
+            "current_a": 12.71,
+            "temperature_c": 28.1,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T06:00:00",
-            "value": 2880.32,
-            "percentage": 0.72,
-            "voltage_v": 230.61,
-            "current_a": 12.49,
-            "temperature_c": 33.3,
+            "timestamp": "2025-12-13T00:00:00",
+            "value": 2368.69,
+            "percentage": 0.59,
+            "voltage_v": 231.77,
+            "current_a": 10.22,
+            "temperature_c": 32.8,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T07:00:00",
-            "value": 2073.88,
-            "percentage": 0.52,
-            "voltage_v": 233.02,
-            "current_a": 8.9,
-            "temperature_c": 33.0,
-            "status": "error"
-          },
-          {
-            "timestamp": "2025-12-17T08:00:00",
-            "value": 3246.57,
-            "percentage": 0.81,
-            "voltage_v": 239.07,
-            "current_a": 13.58,
-            "temperature_c": 28.9,
+            "timestamp": "2025-12-13T01:00:00",
+            "value": 665.89,
+            "percentage": 0.17,
+            "voltage_v": 239.53,
+            "current_a": 2.78,
+            "temperature_c": 32.7,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T09:00:00",
-            "value": 283.8,
-            "percentage": 0.07,
-            "voltage_v": 227.04,
-            "current_a": 1.25,
-            "temperature_c": 29.8,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T10:00:00",
-            "value": 2959.95,
-            "percentage": 0.74,
-            "voltage_v": 223.73,
-            "current_a": 13.23,
-            "temperature_c": 40.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T11:00:00",
-            "value": 147.42,
-            "percentage": 0.04,
-            "voltage_v": 237.78,
-            "current_a": 0.62,
-            "temperature_c": 38.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T12:00:00",
-            "value": 1969.37,
-            "percentage": 0.49,
-            "voltage_v": 228.2,
-            "current_a": 8.63,
+            "timestamp": "2025-12-13T02:00:00",
+            "value": 922.14,
+            "percentage": 0.23,
+            "voltage_v": 220.08,
+            "current_a": 4.19,
             "temperature_c": 25.1,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T13:00:00",
-            "value": 2688.35,
-            "percentage": 0.67,
-            "voltage_v": 229.97,
-            "current_a": 11.69,
-            "temperature_c": 42.8,
+            "timestamp": "2025-12-13T03:00:00",
+            "value": 2341.41,
+            "percentage": 0.59,
+            "voltage_v": 229.55,
+            "current_a": 10.2,
+            "temperature_c": 29.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T14:00:00",
-            "value": 1904.11,
+            "timestamp": "2025-12-13T04:00:00",
+            "value": 307.99,
+            "percentage": 0.08,
+            "voltage_v": 228.14,
+            "current_a": 1.35,
+            "temperature_c": 43.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T05:00:00",
+            "value": 2452.99,
+            "percentage": 0.61,
+            "voltage_v": 221.99,
+            "current_a": 11.05,
+            "temperature_c": 41.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T06:00:00",
+            "value": 2961.23,
+            "percentage": 0.74,
+            "voltage_v": 228.49,
+            "current_a": 12.96,
+            "temperature_c": 37.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T07:00:00",
+            "value": 2677.64,
+            "percentage": 0.67,
+            "voltage_v": 231.03,
+            "current_a": 11.59,
+            "temperature_c": 33.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T08:00:00",
+            "value": 2256.32,
+            "percentage": 0.56,
+            "voltage_v": 238.26,
+            "current_a": 9.47,
+            "temperature_c": 22.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T09:00:00",
+            "value": 1319.04,
+            "percentage": 0.33,
+            "voltage_v": 226.64,
+            "current_a": 5.82,
+            "temperature_c": 33.5,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T10:00:00",
+            "value": 199.78,
+            "percentage": 0.05,
+            "voltage_v": 229.63,
+            "current_a": 0.87,
+            "temperature_c": 33.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T11:00:00",
+            "value": 2670.24,
+            "percentage": 0.67,
+            "voltage_v": 222.52,
+            "current_a": 12.0,
+            "temperature_c": 43.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T12:00:00",
+            "value": 662.35,
+            "percentage": 0.17,
+            "voltage_v": 225.29,
+            "current_a": 2.94,
+            "temperature_c": 25.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T13:00:00",
+            "value": 535.24,
+            "percentage": 0.13,
+            "voltage_v": 222.09,
+            "current_a": 2.41,
+            "temperature_c": 36.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T14:00:00",
+            "value": 2037.22,
+            "percentage": 0.51,
+            "voltage_v": 223.87,
+            "current_a": 9.1,
+            "temperature_c": 30.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T15:00:00",
+            "value": 565.17,
+            "percentage": 0.14,
+            "voltage_v": 220.77,
+            "current_a": 2.56,
+            "temperature_c": 32.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T16:00:00",
+            "value": 3054.84,
+            "percentage": 0.76,
+            "voltage_v": 229.86,
+            "current_a": 13.29,
+            "temperature_c": 27.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T17:00:00",
+            "value": 1083.09,
+            "percentage": 0.27,
+            "voltage_v": 231.43,
+            "current_a": 4.68,
+            "temperature_c": 21.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T18:00:00",
+            "value": 1633.16,
+            "percentage": 0.41,
+            "voltage_v": 234.65,
+            "current_a": 6.96,
+            "temperature_c": 36.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T19:00:00",
+            "value": 1318.7,
+            "percentage": 0.33,
+            "voltage_v": 226.97,
+            "current_a": 5.81,
+            "temperature_c": 39.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T20:00:00",
+            "value": 1006.13,
+            "percentage": 0.25,
+            "voltage_v": 232.9,
+            "current_a": 4.32,
+            "temperature_c": 39.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T21:00:00",
+            "value": 2458.12,
+            "percentage": 0.61,
+            "voltage_v": 237.5,
+            "current_a": 10.35,
+            "temperature_c": 44.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T22:00:00",
+            "value": 1655.6,
+            "percentage": 0.41,
+            "voltage_v": 224.64,
+            "current_a": 7.37,
+            "temperature_c": 36.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T23:00:00",
+            "value": 1930.36,
             "percentage": 0.48,
-            "voltage_v": 233.92,
-            "current_a": 8.14,
+            "voltage_v": 223.94,
+            "current_a": 8.62,
+            "temperature_c": 21.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T00:00:00",
+            "value": 2848.02,
+            "percentage": 0.71,
+            "voltage_v": 237.93,
+            "current_a": 11.97,
             "temperature_c": 30.5,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T15:00:00",
-            "value": 2267.97,
+            "timestamp": "2025-12-14T01:00:00",
+            "value": 3140.03,
+            "percentage": 0.79,
+            "voltage_v": 239.88,
+            "current_a": 13.09,
+            "temperature_c": 32.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T02:00:00",
+            "value": 907.97,
+            "percentage": 0.23,
+            "voltage_v": 230.45,
+            "current_a": 3.94,
+            "temperature_c": 41.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T03:00:00",
+            "value": 533.97,
+            "percentage": 0.13,
+            "voltage_v": 229.17,
+            "current_a": 2.33,
+            "temperature_c": 23.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T04:00:00",
+            "value": 1961.83,
+            "percentage": 0.49,
+            "voltage_v": 232.72,
+            "current_a": 8.43,
+            "temperature_c": 35.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T05:00:00",
+            "value": 1130.92,
+            "percentage": 0.28,
+            "voltage_v": 236.1,
+            "current_a": 4.79,
+            "temperature_c": 41.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T06:00:00",
+            "value": 420.96,
+            "percentage": 0.11,
+            "voltage_v": 228.78,
+            "current_a": 1.84,
+            "temperature_c": 27.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T07:00:00",
+            "value": 2218.41,
+            "percentage": 0.55,
+            "voltage_v": 220.08,
+            "current_a": 10.08,
+            "temperature_c": 22.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T08:00:00",
+            "value": 301.9,
+            "percentage": 0.08,
+            "voltage_v": 226.99,
+            "current_a": 1.33,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T09:00:00",
+            "value": 2281.96,
             "percentage": 0.57,
-            "voltage_v": 229.32,
-            "current_a": 9.89,
+            "voltage_v": 222.63,
+            "current_a": 10.25,
+            "temperature_c": 43.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T10:00:00",
+            "value": 2725.82,
+            "percentage": 0.68,
+            "voltage_v": 222.88,
+            "current_a": 12.23,
+            "temperature_c": 39.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T11:00:00",
+            "value": 982.91,
+            "percentage": 0.25,
+            "voltage_v": 239.15,
+            "current_a": 4.11,
+            "temperature_c": 42.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T12:00:00",
+            "value": 686.14,
+            "percentage": 0.17,
+            "voltage_v": 236.6,
+            "current_a": 2.9,
+            "temperature_c": 42.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T13:00:00",
+            "value": 1175.62,
+            "percentage": 0.29,
+            "voltage_v": 237.5,
+            "current_a": 4.95,
+            "temperature_c": 29.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T14:00:00",
+            "value": 1032.38,
+            "percentage": 0.26,
+            "voltage_v": 221.54,
+            "current_a": 4.66,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T15:00:00",
+            "value": 2302.22,
+            "percentage": 0.58,
+            "voltage_v": 226.82,
+            "current_a": 10.15,
+            "temperature_c": 36.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T16:00:00",
+            "value": 581.49,
+            "percentage": 0.15,
+            "voltage_v": 221.1,
+            "current_a": 2.63,
+            "temperature_c": 41.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T17:00:00",
+            "value": 2179.04,
+            "percentage": 0.54,
+            "voltage_v": 225.34,
+            "current_a": 9.67,
+            "temperature_c": 34.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T18:00:00",
+            "value": 2353.17,
+            "percentage": 0.59,
+            "voltage_v": 239.63,
+            "current_a": 9.82,
+            "temperature_c": 42.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T19:00:00",
+            "value": 2297.61,
+            "percentage": 0.57,
+            "voltage_v": 225.92,
+            "current_a": 10.17,
+            "temperature_c": 36.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T20:00:00",
+            "value": 2839.88,
+            "percentage": 0.71,
+            "voltage_v": 227.92,
+            "current_a": 12.46,
+            "temperature_c": 43.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T21:00:00",
+            "value": 721.67,
+            "percentage": 0.18,
+            "voltage_v": 237.39,
+            "current_a": 3.04,
+            "temperature_c": 27.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-14T22:00:00",
+            "value": 2584.97,
+            "percentage": 0.65,
+            "voltage_v": 224.39,
+            "current_a": 11.52,
+            "temperature_c": 37.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T23:00:00",
+            "value": 584.79,
+            "percentage": 0.15,
+            "voltage_v": 237.72,
+            "current_a": 2.46,
+            "temperature_c": 21.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T00:00:00",
+            "value": 770.57,
+            "percentage": 0.19,
+            "voltage_v": 230.71,
+            "current_a": 3.34,
+            "temperature_c": 38.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T01:00:00",
+            "value": 2085.74,
+            "percentage": 0.52,
+            "voltage_v": 220.48,
+            "current_a": 9.46,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T02:00:00",
+            "value": 2952.83,
+            "percentage": 0.74,
+            "voltage_v": 220.69,
+            "current_a": 13.38,
+            "temperature_c": 21.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T03:00:00",
+            "value": 1660.81,
+            "percentage": 0.42,
+            "voltage_v": 231.31,
+            "current_a": 7.18,
+            "temperature_c": 36.7,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T04:00:00",
+            "value": 522.51,
+            "percentage": 0.13,
+            "voltage_v": 225.22,
+            "current_a": 2.32,
+            "temperature_c": 24.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T05:00:00",
+            "value": 139.16,
+            "percentage": 0.03,
+            "voltage_v": 235.87,
+            "current_a": 0.59,
+            "temperature_c": 41.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T06:00:00",
+            "value": 2049.46,
+            "percentage": 0.51,
+            "voltage_v": 233.69,
+            "current_a": 8.77,
+            "temperature_c": 23.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T07:00:00",
+            "value": 493.04,
+            "percentage": 0.12,
+            "voltage_v": 228.26,
+            "current_a": 2.16,
+            "temperature_c": 28.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T08:00:00",
+            "value": 3218.85,
+            "percentage": 0.8,
+            "voltage_v": 233.25,
+            "current_a": 13.8,
+            "temperature_c": 40.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T09:00:00",
+            "value": 1168.47,
+            "percentage": 0.29,
+            "voltage_v": 226.01,
+            "current_a": 5.17,
+            "temperature_c": 36.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T10:00:00",
+            "value": 1616.57,
+            "percentage": 0.4,
+            "voltage_v": 229.3,
+            "current_a": 7.05,
+            "temperature_c": 33.4,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T11:00:00",
+            "value": 3249.11,
+            "percentage": 0.81,
+            "voltage_v": 225.32,
+            "current_a": 14.42,
+            "temperature_c": 43.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T12:00:00",
+            "value": 546.15,
+            "percentage": 0.14,
+            "voltage_v": 239.54,
+            "current_a": 2.28,
+            "temperature_c": 32.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T13:00:00",
+            "value": 2191.17,
+            "percentage": 0.55,
+            "voltage_v": 231.87,
+            "current_a": 9.45,
+            "temperature_c": 30.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T14:00:00",
+            "value": 2932.32,
+            "percentage": 0.73,
+            "voltage_v": 228.73,
+            "current_a": 12.82,
             "temperature_c": 35.8,
             "status": "active"
           },
           {
+            "timestamp": "2025-12-15T15:00:00",
+            "value": 2607.61,
+            "percentage": 0.65,
+            "voltage_v": 236.84,
+            "current_a": 11.01,
+            "temperature_c": 38.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T16:00:00",
+            "value": 1495.46,
+            "percentage": 0.37,
+            "voltage_v": 220.57,
+            "current_a": 6.78,
+            "temperature_c": 41.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T17:00:00",
+            "value": 1460.93,
+            "percentage": 0.37,
+            "voltage_v": 225.8,
+            "current_a": 6.47,
+            "temperature_c": 33.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T18:00:00",
+            "value": 1673.7,
+            "percentage": 0.42,
+            "voltage_v": 223.16,
+            "current_a": 7.5,
+            "temperature_c": 35.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T19:00:00",
+            "value": 958.57,
+            "percentage": 0.24,
+            "voltage_v": 232.1,
+            "current_a": 4.13,
+            "temperature_c": 44.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T20:00:00",
+            "value": 1671.08,
+            "percentage": 0.42,
+            "voltage_v": 239.41,
+            "current_a": 6.98,
+            "temperature_c": 31.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T21:00:00",
+            "value": 390.67,
+            "percentage": 0.1,
+            "voltage_v": 228.46,
+            "current_a": 1.71,
+            "temperature_c": 37.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T22:00:00",
+            "value": 3343.57,
+            "percentage": 0.84,
+            "voltage_v": 233.98,
+            "current_a": 14.29,
+            "temperature_c": 41.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T23:00:00",
+            "value": 1676.95,
+            "percentage": 0.42,
+            "voltage_v": 236.19,
+            "current_a": 7.1,
+            "temperature_c": 41.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T00:00:00",
+            "value": 960.68,
+            "percentage": 0.24,
+            "voltage_v": 230.38,
+            "current_a": 4.17,
+            "temperature_c": 39.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T01:00:00",
+            "value": 2762.19,
+            "percentage": 0.69,
+            "voltage_v": 233.49,
+            "current_a": 11.83,
+            "temperature_c": 23.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T02:00:00",
+            "value": 319.91,
+            "percentage": 0.08,
+            "voltage_v": 236.97,
+            "current_a": 1.35,
+            "temperature_c": 30.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T03:00:00",
+            "value": 1233.87,
+            "percentage": 0.31,
+            "voltage_v": 237.74,
+            "current_a": 5.19,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T04:00:00",
+            "value": 2436.59,
+            "percentage": 0.61,
+            "voltage_v": 225.61,
+            "current_a": 10.8,
+            "temperature_c": 23.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T05:00:00",
+            "value": 1864.14,
+            "percentage": 0.47,
+            "voltage_v": 226.23,
+            "current_a": 8.24,
+            "temperature_c": 27.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T06:00:00",
+            "value": 1534.27,
+            "percentage": 0.38,
+            "voltage_v": 239.73,
+            "current_a": 6.4,
+            "temperature_c": 30.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T07:00:00",
+            "value": 1414.27,
+            "percentage": 0.35,
+            "voltage_v": 222.72,
+            "current_a": 6.35,
+            "temperature_c": 37.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T08:00:00",
+            "value": 1464.21,
+            "percentage": 0.37,
+            "voltage_v": 225.61,
+            "current_a": 6.49,
+            "temperature_c": 23.1,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T09:00:00",
+            "value": 2688.94,
+            "percentage": 0.67,
+            "voltage_v": 222.41,
+            "current_a": 12.09,
+            "temperature_c": 33.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T10:00:00",
+            "value": 1699.67,
+            "percentage": 0.42,
+            "voltage_v": 228.45,
+            "current_a": 7.44,
+            "temperature_c": 25.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T11:00:00",
+            "value": 923.94,
+            "percentage": 0.23,
+            "voltage_v": 235.7,
+            "current_a": 3.92,
+            "temperature_c": 20.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T12:00:00",
+            "value": 1899.73,
+            "percentage": 0.47,
+            "voltage_v": 230.27,
+            "current_a": 8.25,
+            "temperature_c": 37.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T13:00:00",
+            "value": 2076.11,
+            "percentage": 0.52,
+            "voltage_v": 235.12,
+            "current_a": 8.83,
+            "temperature_c": 26.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T14:00:00",
+            "value": 867.95,
+            "percentage": 0.22,
+            "voltage_v": 236.5,
+            "current_a": 3.67,
+            "temperature_c": 41.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T15:00:00",
+            "value": 471.54,
+            "percentage": 0.12,
+            "voltage_v": 226.7,
+            "current_a": 2.08,
+            "temperature_c": 44.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T16:00:00",
+            "value": 133.05,
+            "percentage": 0.03,
+            "voltage_v": 237.59,
+            "current_a": 0.56,
+            "temperature_c": 21.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T17:00:00",
+            "value": 2694.16,
+            "percentage": 0.67,
+            "voltage_v": 238.0,
+            "current_a": 11.32,
+            "temperature_c": 42.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T18:00:00",
+            "value": 217.38,
+            "percentage": 0.05,
+            "voltage_v": 226.44,
+            "current_a": 0.96,
+            "temperature_c": 36.9,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T19:00:00",
+            "value": 855.71,
+            "percentage": 0.21,
+            "voltage_v": 230.65,
+            "current_a": 3.71,
+            "temperature_c": 24.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T20:00:00",
+            "value": 2210.38,
+            "percentage": 0.55,
+            "voltage_v": 237.42,
+            "current_a": 9.31,
+            "temperature_c": 26.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T21:00:00",
+            "value": 3162.23,
+            "percentage": 0.79,
+            "voltage_v": 225.23,
+            "current_a": 14.04,
+            "temperature_c": 36.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T22:00:00",
+            "value": 294.74,
+            "percentage": 0.07,
+            "voltage_v": 233.92,
+            "current_a": 1.26,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T23:00:00",
+            "value": 215.84,
+            "percentage": 0.05,
+            "voltage_v": 220.24,
+            "current_a": 0.98,
+            "temperature_c": 24.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T00:00:00",
+            "value": 704.41,
+            "percentage": 0.18,
+            "voltage_v": 230.2,
+            "current_a": 3.06,
+            "temperature_c": 21.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T01:00:00",
+            "value": 2459.88,
+            "percentage": 0.61,
+            "voltage_v": 223.22,
+            "current_a": 11.02,
+            "temperature_c": 24.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T02:00:00",
+            "value": 2314.32,
+            "percentage": 0.58,
+            "voltage_v": 239.33,
+            "current_a": 9.67,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T03:00:00",
+            "value": 511.07,
+            "percentage": 0.13,
+            "voltage_v": 229.18,
+            "current_a": 2.23,
+            "temperature_c": 26.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T04:00:00",
+            "value": 1944.68,
+            "percentage": 0.49,
+            "voltage_v": 224.3,
+            "current_a": 8.67,
+            "temperature_c": 32.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T05:00:00",
+            "value": 2117.01,
+            "percentage": 0.53,
+            "voltage_v": 230.36,
+            "current_a": 9.19,
+            "temperature_c": 30.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T06:00:00",
+            "value": 1207.49,
+            "percentage": 0.3,
+            "voltage_v": 224.44,
+            "current_a": 5.38,
+            "temperature_c": 37.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T07:00:00",
+            "value": 3349.04,
+            "percentage": 0.84,
+            "voltage_v": 235.02,
+            "current_a": 14.25,
+            "temperature_c": 30.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T08:00:00",
+            "value": 1098.54,
+            "percentage": 0.27,
+            "voltage_v": 231.76,
+            "current_a": 4.74,
+            "temperature_c": 33.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T09:00:00",
+            "value": 1792.15,
+            "percentage": 0.45,
+            "voltage_v": 228.59,
+            "current_a": 7.84,
+            "temperature_c": 35.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T10:00:00",
+            "value": 2809.01,
+            "percentage": 0.7,
+            "voltage_v": 229.12,
+            "current_a": 12.26,
+            "temperature_c": 27.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T11:00:00",
+            "value": 533.95,
+            "percentage": 0.13,
+            "voltage_v": 226.25,
+            "current_a": 2.36,
+            "temperature_c": 40.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T12:00:00",
+            "value": 2643.78,
+            "percentage": 0.66,
+            "voltage_v": 234.17,
+            "current_a": 11.29,
+            "temperature_c": 34.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T13:00:00",
+            "value": 1926.61,
+            "percentage": 0.48,
+            "voltage_v": 221.96,
+            "current_a": 8.68,
+            "temperature_c": 42.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T14:00:00",
+            "value": 1813.54,
+            "percentage": 0.45,
+            "voltage_v": 239.57,
+            "current_a": 7.57,
+            "temperature_c": 37.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T15:00:00",
+            "value": 428.41,
+            "percentage": 0.11,
+            "voltage_v": 235.39,
+            "current_a": 1.82,
+            "temperature_c": 26.0,
+            "status": "active"
+          },
+          {
             "timestamp": "2025-12-17T16:00:00",
-            "value": 1980.9,
-            "percentage": 0.5,
-            "voltage_v": 238.95,
-            "current_a": 8.29,
-            "temperature_c": 43.9,
+            "value": 2628.85,
+            "percentage": 0.66,
+            "voltage_v": 224.88,
+            "current_a": 11.69,
+            "temperature_c": 30.9,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T17:00:00",
-            "value": 1159.39,
-            "percentage": 0.29,
-            "voltage_v": 223.39,
-            "current_a": 5.19,
-            "temperature_c": 20.0,
+            "value": 2035.28,
+            "percentage": 0.51,
+            "voltage_v": 224.15,
+            "current_a": 9.08,
+            "temperature_c": 39.7,
             "status": "active"
           }
         ]
@@ -232,219 +1141,1128 @@
         "label": "Solar Sub-meter",
         "readings": [
           {
-            "timestamp": "2025-12-16T18:00:00",
-            "value": 2008.3,
-            "percentage": 0.5,
-            "voltage_v": 236.27,
-            "current_a": 8.5,
-            "temperature_c": 23.4,
+            "timestamp": "2025-12-12T13:00:00",
+            "value": 2975.13,
+            "percentage": 0.74,
+            "voltage_v": 239.93,
+            "current_a": 12.4,
+            "temperature_c": 27.5,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T19:00:00",
-            "value": 696.68,
-            "percentage": 0.17,
-            "voltage_v": 238.59,
-            "current_a": 2.92,
-            "temperature_c": 36.2,
+            "timestamp": "2025-12-12T14:00:00",
+            "value": 266.48,
+            "percentage": 0.07,
+            "voltage_v": 225.83,
+            "current_a": 1.18,
+            "temperature_c": 21.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T20:00:00",
-            "value": 3117.25,
-            "percentage": 0.78,
-            "voltage_v": 235.62,
-            "current_a": 13.23,
-            "temperature_c": 41.3,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T21:00:00",
-            "value": 408.72,
-            "percentage": 0.1,
-            "voltage_v": 237.63,
-            "current_a": 1.72,
-            "temperature_c": 25.3,
+            "timestamp": "2025-12-12T15:00:00",
+            "value": 2437.61,
+            "percentage": 0.61,
+            "voltage_v": 234.16,
+            "current_a": 10.41,
+            "temperature_c": 27.0,
             "status": "error"
           },
           {
-            "timestamp": "2025-12-16T22:00:00",
-            "value": 2917.31,
-            "percentage": 0.73,
-            "voltage_v": 228.45,
-            "current_a": 12.77,
-            "temperature_c": 35.5,
+            "timestamp": "2025-12-12T16:00:00",
+            "value": 247.75,
+            "percentage": 0.06,
+            "voltage_v": 231.54,
+            "current_a": 1.07,
+            "temperature_c": 28.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T23:00:00",
-            "value": 1524.89,
-            "percentage": 0.38,
-            "voltage_v": 221.32,
-            "current_a": 6.89,
-            "temperature_c": 21.2,
+            "timestamp": "2025-12-12T17:00:00",
+            "value": 1872.93,
+            "percentage": 0.47,
+            "voltage_v": 236.78,
+            "current_a": 7.91,
+            "temperature_c": 20.6,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T00:00:00",
-            "value": 836.08,
-            "percentage": 0.21,
-            "voltage_v": 238.88,
-            "current_a": 3.5,
-            "temperature_c": 41.3,
+            "timestamp": "2025-12-12T18:00:00",
+            "value": 2268.58,
+            "percentage": 0.57,
+            "voltage_v": 235.33,
+            "current_a": 9.64,
+            "temperature_c": 30.0,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T01:00:00",
-            "value": 3157.13,
-            "percentage": 0.79,
-            "voltage_v": 220.47,
-            "current_a": 14.32,
-            "temperature_c": 20.5,
+            "timestamp": "2025-12-12T19:00:00",
+            "value": 2545.48,
+            "percentage": 0.64,
+            "voltage_v": 237.23,
+            "current_a": 10.73,
+            "temperature_c": 41.9,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T02:00:00",
-            "value": 2495.58,
-            "percentage": 0.62,
-            "voltage_v": 239.04,
-            "current_a": 10.44,
-            "temperature_c": 20.7,
-            "status": "active"
+            "timestamp": "2025-12-12T20:00:00",
+            "value": 423.08,
+            "percentage": 0.11,
+            "voltage_v": 228.69,
+            "current_a": 1.85,
+            "temperature_c": 31.7,
+            "status": "error"
           },
           {
-            "timestamp": "2025-12-17T03:00:00",
-            "value": 569.29,
-            "percentage": 0.14,
-            "voltage_v": 231.42,
-            "current_a": 2.46,
+            "timestamp": "2025-12-12T21:00:00",
+            "value": 2303.55,
+            "percentage": 0.58,
+            "voltage_v": 231.28,
+            "current_a": 9.96,
             "temperature_c": 37.7,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T04:00:00",
-            "value": 1780.34,
+            "timestamp": "2025-12-12T22:00:00",
+            "value": 2835.04,
+            "percentage": 0.71,
+            "voltage_v": 225.54,
+            "current_a": 12.57,
+            "temperature_c": 28.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T23:00:00",
+            "value": 1362.18,
+            "percentage": 0.34,
+            "voltage_v": 231.27,
+            "current_a": 5.89,
+            "temperature_c": 27.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T00:00:00",
+            "value": 2396.21,
+            "percentage": 0.6,
+            "voltage_v": 236.08,
+            "current_a": 10.15,
+            "temperature_c": 24.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T01:00:00",
+            "value": 675.55,
+            "percentage": 0.17,
+            "voltage_v": 232.95,
+            "current_a": 2.9,
+            "temperature_c": 32.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T02:00:00",
+            "value": 1529.11,
+            "percentage": 0.38,
+            "voltage_v": 220.97,
+            "current_a": 6.92,
+            "temperature_c": 44.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T03:00:00",
+            "value": 555.89,
+            "percentage": 0.14,
+            "voltage_v": 238.58,
+            "current_a": 2.33,
+            "temperature_c": 37.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T04:00:00",
+            "value": 167.97,
+            "percentage": 0.04,
+            "voltage_v": 230.1,
+            "current_a": 0.73,
+            "temperature_c": 20.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T05:00:00",
+            "value": 1325.4,
+            "percentage": 0.33,
+            "voltage_v": 234.17,
+            "current_a": 5.66,
+            "temperature_c": 43.5,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T06:00:00",
+            "value": 2340.78,
+            "percentage": 0.59,
+            "voltage_v": 231.76,
+            "current_a": 10.1,
+            "temperature_c": 34.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T07:00:00",
+            "value": 726.27,
+            "percentage": 0.18,
+            "voltage_v": 227.67,
+            "current_a": 3.19,
+            "temperature_c": 43.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T08:00:00",
+            "value": 640.48,
+            "percentage": 0.16,
+            "voltage_v": 235.47,
+            "current_a": 2.72,
+            "temperature_c": 28.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T09:00:00",
+            "value": 1678.86,
+            "percentage": 0.42,
+            "voltage_v": 230.93,
+            "current_a": 7.27,
+            "temperature_c": 31.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T10:00:00",
+            "value": 1960.86,
+            "percentage": 0.49,
+            "voltage_v": 229.34,
+            "current_a": 8.55,
+            "temperature_c": 27.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T11:00:00",
+            "value": 573.2,
+            "percentage": 0.14,
+            "voltage_v": 225.67,
+            "current_a": 2.54,
+            "temperature_c": 29.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T12:00:00",
+            "value": 3522.19,
+            "percentage": 0.88,
+            "voltage_v": 236.23,
+            "current_a": 14.91,
+            "temperature_c": 21.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T13:00:00",
+            "value": 2087.03,
+            "percentage": 0.52,
+            "voltage_v": 223.69,
+            "current_a": 9.33,
+            "temperature_c": 43.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T14:00:00",
+            "value": 2439.64,
+            "percentage": 0.61,
+            "voltage_v": 232.79,
+            "current_a": 10.48,
+            "temperature_c": 22.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T15:00:00",
+            "value": 1811.45,
             "percentage": 0.45,
-            "voltage_v": 236.12,
-            "current_a": 7.54,
+            "voltage_v": 234.34,
+            "current_a": 7.73,
+            "temperature_c": 38.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T16:00:00",
+            "value": 478.36,
+            "percentage": 0.12,
+            "voltage_v": 236.81,
+            "current_a": 2.02,
+            "temperature_c": 20.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T17:00:00",
+            "value": 739.12,
+            "percentage": 0.18,
+            "voltage_v": 237.66,
+            "current_a": 3.11,
+            "temperature_c": 40.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T18:00:00",
+            "value": 1463.73,
+            "percentage": 0.37,
+            "voltage_v": 236.85,
+            "current_a": 6.18,
+            "temperature_c": 26.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T19:00:00",
+            "value": 2882.94,
+            "percentage": 0.72,
+            "voltage_v": 231.19,
+            "current_a": 12.47,
+            "temperature_c": 30.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T20:00:00",
+            "value": 2243.22,
+            "percentage": 0.56,
+            "voltage_v": 231.26,
+            "current_a": 9.7,
+            "temperature_c": 23.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T21:00:00",
+            "value": 2086.6,
+            "percentage": 0.52,
+            "voltage_v": 233.14,
+            "current_a": 8.95,
+            "temperature_c": 27.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T22:00:00",
+            "value": 1148.15,
+            "percentage": 0.29,
+            "voltage_v": 233.84,
+            "current_a": 4.91,
+            "temperature_c": 40.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T23:00:00",
+            "value": 2583.39,
+            "percentage": 0.65,
+            "voltage_v": 230.66,
+            "current_a": 11.2,
+            "temperature_c": 26.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T00:00:00",
+            "value": 2509.65,
+            "percentage": 0.63,
+            "voltage_v": 238.56,
+            "current_a": 10.52,
+            "temperature_c": 26.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T01:00:00",
+            "value": 2686.33,
+            "percentage": 0.67,
+            "voltage_v": 235.85,
+            "current_a": 11.39,
+            "temperature_c": 21.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T02:00:00",
+            "value": 1361.6,
+            "percentage": 0.34,
+            "voltage_v": 236.8,
+            "current_a": 5.75,
+            "temperature_c": 21.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T03:00:00",
+            "value": 1475.51,
+            "percentage": 0.37,
+            "voltage_v": 222.55,
+            "current_a": 6.63,
+            "temperature_c": 28.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T04:00:00",
+            "value": 3088.99,
+            "percentage": 0.77,
+            "voltage_v": 227.97,
+            "current_a": 13.55,
+            "temperature_c": 23.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T05:00:00",
+            "value": 1004.48,
+            "percentage": 0.25,
+            "voltage_v": 233.6,
+            "current_a": 4.3,
+            "temperature_c": 20.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T06:00:00",
+            "value": 1824.03,
+            "percentage": 0.46,
+            "voltage_v": 236.58,
+            "current_a": 7.71,
+            "temperature_c": 24.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T07:00:00",
+            "value": 1038.09,
+            "percentage": 0.26,
+            "voltage_v": 222.29,
+            "current_a": 4.67,
             "temperature_c": 22.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T05:00:00",
-            "value": 1299.0,
-            "percentage": 0.32,
-            "voltage_v": 229.1,
-            "current_a": 5.67,
+            "timestamp": "2025-12-14T08:00:00",
+            "value": 1053.94,
+            "percentage": 0.26,
+            "voltage_v": 224.72,
+            "current_a": 4.69,
+            "temperature_c": 20.9,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-14T09:00:00",
+            "value": 2253.0,
+            "percentage": 0.56,
+            "voltage_v": 234.2,
+            "current_a": 9.62,
+            "temperature_c": 20.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T10:00:00",
+            "value": 3182.83,
+            "percentage": 0.8,
+            "voltage_v": 221.03,
+            "current_a": 14.4,
+            "temperature_c": 42.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T11:00:00",
+            "value": 1761.55,
+            "percentage": 0.44,
+            "voltage_v": 230.57,
+            "current_a": 7.64,
+            "temperature_c": 33.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T12:00:00",
+            "value": 2443.89,
+            "percentage": 0.61,
+            "voltage_v": 221.97,
+            "current_a": 11.01,
+            "temperature_c": 23.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T13:00:00",
+            "value": 616.36,
+            "percentage": 0.15,
+            "voltage_v": 237.06,
+            "current_a": 2.6,
+            "temperature_c": 40.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T14:00:00",
+            "value": 1014.02,
+            "percentage": 0.25,
+            "voltage_v": 227.87,
+            "current_a": 4.45,
+            "temperature_c": 37.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T15:00:00",
+            "value": 137.39,
+            "percentage": 0.03,
+            "voltage_v": 232.87,
+            "current_a": 0.59,
+            "temperature_c": 22.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T16:00:00",
+            "value": 2204.93,
+            "percentage": 0.55,
+            "voltage_v": 222.72,
+            "current_a": 9.9,
+            "temperature_c": 36.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T17:00:00",
+            "value": 1912.9,
+            "percentage": 0.48,
+            "voltage_v": 228.27,
+            "current_a": 8.38,
+            "temperature_c": 30.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T18:00:00",
+            "value": 2490.89,
+            "percentage": 0.62,
+            "voltage_v": 223.8,
+            "current_a": 11.13,
+            "temperature_c": 32.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T19:00:00",
+            "value": 2714.49,
+            "percentage": 0.68,
+            "voltage_v": 234.21,
+            "current_a": 11.59,
+            "temperature_c": 39.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T20:00:00",
+            "value": 3463.62,
+            "percentage": 0.87,
+            "voltage_v": 238.87,
+            "current_a": 14.5,
+            "temperature_c": 20.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T21:00:00",
+            "value": 1754.78,
+            "percentage": 0.44,
+            "voltage_v": 224.11,
+            "current_a": 7.83,
+            "temperature_c": 37.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T22:00:00",
+            "value": 2064.54,
+            "percentage": 0.52,
+            "voltage_v": 230.16,
+            "current_a": 8.97,
+            "temperature_c": 44.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T23:00:00",
+            "value": 2760.26,
+            "percentage": 0.69,
+            "voltage_v": 235.92,
+            "current_a": 11.7,
+            "temperature_c": 34.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T00:00:00",
+            "value": 1571.31,
+            "percentage": 0.39,
+            "voltage_v": 226.74,
+            "current_a": 6.93,
+            "temperature_c": 40.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T01:00:00",
+            "value": 1833.13,
+            "percentage": 0.46,
+            "voltage_v": 233.52,
+            "current_a": 7.85,
+            "temperature_c": 32.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T02:00:00",
+            "value": 2996.87,
+            "percentage": 0.75,
+            "voltage_v": 236.16,
+            "current_a": 12.69,
+            "temperature_c": 33.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T03:00:00",
+            "value": 447.67,
+            "percentage": 0.11,
+            "voltage_v": 224.96,
+            "current_a": 1.99,
+            "temperature_c": 39.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T04:00:00",
+            "value": 945.86,
+            "percentage": 0.24,
+            "voltage_v": 220.48,
+            "current_a": 4.29,
             "temperature_c": 23.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T06:00:00",
-            "value": 2825.38,
-            "percentage": 0.71,
-            "voltage_v": 225.85,
-            "current_a": 12.51,
+            "timestamp": "2025-12-15T05:00:00",
+            "value": 621.1,
+            "percentage": 0.16,
+            "voltage_v": 226.68,
+            "current_a": 2.74,
+            "temperature_c": 27.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T06:00:00",
+            "value": 2937.19,
+            "percentage": 0.73,
+            "voltage_v": 230.73,
+            "current_a": 12.73,
+            "temperature_c": 42.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T07:00:00",
+            "value": 2548.12,
+            "percentage": 0.64,
+            "voltage_v": 239.26,
+            "current_a": 10.65,
+            "temperature_c": 39.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T08:00:00",
+            "value": 1922.01,
+            "percentage": 0.48,
+            "voltage_v": 226.92,
+            "current_a": 8.47,
+            "temperature_c": 30.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T09:00:00",
+            "value": 828.7,
+            "percentage": 0.21,
+            "voltage_v": 232.78,
+            "current_a": 3.56,
+            "temperature_c": 26.1,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T10:00:00",
+            "value": 3337.42,
+            "percentage": 0.83,
+            "voltage_v": 239.07,
+            "current_a": 13.96,
             "temperature_c": 28.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T07:00:00",
-            "value": 3391.68,
-            "percentage": 0.85,
-            "voltage_v": 227.02,
-            "current_a": 14.94,
-            "temperature_c": 39.2,
+            "timestamp": "2025-12-15T11:00:00",
+            "value": 2630.81,
+            "percentage": 0.66,
+            "voltage_v": 226.99,
+            "current_a": 11.59,
+            "temperature_c": 22.7,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T12:00:00",
+            "value": 2886.8,
+            "percentage": 0.72,
+            "voltage_v": 221.38,
+            "current_a": 13.04,
+            "temperature_c": 30.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T08:00:00",
-            "value": 731.18,
-            "percentage": 0.18,
-            "voltage_v": 239.73,
-            "current_a": 3.05,
-            "temperature_c": 34.3,
+            "timestamp": "2025-12-15T13:00:00",
+            "value": 3021.38,
+            "percentage": 0.76,
+            "voltage_v": 229.24,
+            "current_a": 13.18,
+            "temperature_c": 31.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T09:00:00",
-            "value": 3007.48,
-            "percentage": 0.75,
-            "voltage_v": 239.64,
-            "current_a": 12.55,
-            "temperature_c": 38.5,
+            "timestamp": "2025-12-15T14:00:00",
+            "value": 2789.98,
+            "percentage": 0.7,
+            "voltage_v": 223.02,
+            "current_a": 12.51,
+            "temperature_c": 28.1,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T10:00:00",
-            "value": 279.41,
-            "percentage": 0.07,
-            "voltage_v": 234.8,
-            "current_a": 1.19,
-            "temperature_c": 23.0,
+            "timestamp": "2025-12-15T15:00:00",
+            "value": 763.82,
+            "percentage": 0.19,
+            "voltage_v": 237.95,
+            "current_a": 3.21,
+            "temperature_c": 32.8,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T11:00:00",
-            "value": 2406.27,
-            "percentage": 0.6,
-            "voltage_v": 231.15,
-            "current_a": 10.41,
-            "temperature_c": 25.7,
+            "timestamp": "2025-12-15T16:00:00",
+            "value": 2182.65,
+            "percentage": 0.55,
+            "voltage_v": 230.48,
+            "current_a": 9.47,
+            "temperature_c": 23.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T12:00:00",
-            "value": 3192.57,
-            "percentage": 0.8,
-            "voltage_v": 224.04,
-            "current_a": 14.25,
-            "temperature_c": 39.8,
+            "timestamp": "2025-12-15T17:00:00",
+            "value": 2739.88,
+            "percentage": 0.68,
+            "voltage_v": 239.5,
+            "current_a": 11.44,
+            "temperature_c": 42.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T13:00:00",
-            "value": 1000.44,
-            "percentage": 0.25,
-            "voltage_v": 238.2,
-            "current_a": 4.2,
+            "timestamp": "2025-12-15T18:00:00",
+            "value": 777.92,
+            "percentage": 0.19,
+            "voltage_v": 228.13,
+            "current_a": 3.41,
+            "temperature_c": 36.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T19:00:00",
+            "value": 1160.05,
+            "percentage": 0.29,
+            "voltage_v": 232.01,
+            "current_a": 5.0,
+            "temperature_c": 20.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T20:00:00",
+            "value": 2978.43,
+            "percentage": 0.74,
+            "voltage_v": 229.11,
+            "current_a": 13.0,
+            "temperature_c": 31.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T21:00:00",
+            "value": 3297.48,
+            "percentage": 0.82,
+            "voltage_v": 220.42,
+            "current_a": 14.96,
+            "temperature_c": 24.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T22:00:00",
+            "value": 1245.73,
+            "percentage": 0.31,
+            "voltage_v": 229.84,
+            "current_a": 5.42,
+            "temperature_c": 41.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T23:00:00",
+            "value": 331.4,
+            "percentage": 0.08,
+            "voltage_v": 238.42,
+            "current_a": 1.39,
+            "temperature_c": 28.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T00:00:00",
+            "value": 1235.59,
+            "percentage": 0.31,
+            "voltage_v": 233.13,
+            "current_a": 5.3,
+            "temperature_c": 27.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T01:00:00",
+            "value": 2501.03,
+            "percentage": 0.63,
+            "voltage_v": 222.71,
+            "current_a": 11.23,
+            "temperature_c": 38.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T02:00:00",
+            "value": 2932.49,
+            "percentage": 0.73,
+            "voltage_v": 225.23,
+            "current_a": 13.02,
+            "temperature_c": 25.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T03:00:00",
+            "value": 752.5,
+            "percentage": 0.19,
+            "voltage_v": 227.34,
+            "current_a": 3.31,
+            "temperature_c": 27.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T04:00:00",
+            "value": 3161.64,
+            "percentage": 0.79,
+            "voltage_v": 224.23,
+            "current_a": 14.1,
+            "temperature_c": 42.6,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T05:00:00",
+            "value": 1309.34,
+            "percentage": 0.33,
+            "voltage_v": 237.63,
+            "current_a": 5.51,
+            "temperature_c": 26.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T06:00:00",
+            "value": 224.0,
+            "percentage": 0.06,
+            "voltage_v": 230.93,
+            "current_a": 0.97,
+            "temperature_c": 23.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T07:00:00",
+            "value": 2797.42,
+            "percentage": 0.7,
+            "voltage_v": 235.87,
+            "current_a": 11.86,
+            "temperature_c": 21.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T08:00:00",
+            "value": 171.11,
+            "percentage": 0.04,
+            "voltage_v": 222.22,
+            "current_a": 0.77,
+            "temperature_c": 32.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T09:00:00",
+            "value": 1992.08,
+            "percentage": 0.5,
+            "voltage_v": 235.47,
+            "current_a": 8.46,
+            "temperature_c": 26.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T10:00:00",
+            "value": 699.95,
+            "percentage": 0.17,
+            "voltage_v": 239.71,
+            "current_a": 2.92,
+            "temperature_c": 23.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T11:00:00",
+            "value": 1514.16,
+            "percentage": 0.38,
+            "voltage_v": 227.01,
+            "current_a": 6.67,
             "temperature_c": 26.2,
             "status": "active"
           },
           {
+            "timestamp": "2025-12-16T12:00:00",
+            "value": 1831.33,
+            "percentage": 0.46,
+            "voltage_v": 221.98,
+            "current_a": 8.25,
+            "temperature_c": 21.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T13:00:00",
+            "value": 3246.94,
+            "percentage": 0.81,
+            "voltage_v": 239.45,
+            "current_a": 13.56,
+            "temperature_c": 34.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T14:00:00",
+            "value": 1697.08,
+            "percentage": 0.42,
+            "voltage_v": 234.08,
+            "current_a": 7.25,
+            "temperature_c": 24.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T15:00:00",
+            "value": 2033.81,
+            "percentage": 0.51,
+            "voltage_v": 234.58,
+            "current_a": 8.67,
+            "temperature_c": 28.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T16:00:00",
+            "value": 1851.85,
+            "percentage": 0.46,
+            "voltage_v": 227.78,
+            "current_a": 8.13,
+            "temperature_c": 30.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T17:00:00",
+            "value": 1364.13,
+            "percentage": 0.34,
+            "voltage_v": 221.09,
+            "current_a": 6.17,
+            "temperature_c": 42.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T18:00:00",
+            "value": 3152.54,
+            "percentage": 0.79,
+            "voltage_v": 224.7,
+            "current_a": 14.03,
+            "temperature_c": 38.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T19:00:00",
+            "value": 602.82,
+            "percentage": 0.15,
+            "voltage_v": 228.34,
+            "current_a": 2.64,
+            "temperature_c": 24.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T20:00:00",
+            "value": 1665.84,
+            "percentage": 0.42,
+            "voltage_v": 224.81,
+            "current_a": 7.41,
+            "temperature_c": 34.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T21:00:00",
+            "value": 1423.89,
+            "percentage": 0.36,
+            "voltage_v": 229.29,
+            "current_a": 6.21,
+            "temperature_c": 41.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T22:00:00",
+            "value": 588.95,
+            "percentage": 0.15,
+            "voltage_v": 224.79,
+            "current_a": 2.62,
+            "temperature_c": 32.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T23:00:00",
+            "value": 1797.16,
+            "percentage": 0.45,
+            "voltage_v": 236.78,
+            "current_a": 7.59,
+            "temperature_c": 24.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T00:00:00",
+            "value": 757.38,
+            "percentage": 0.19,
+            "voltage_v": 225.41,
+            "current_a": 3.36,
+            "temperature_c": 20.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T01:00:00",
+            "value": 3063.7,
+            "percentage": 0.77,
+            "voltage_v": 238.42,
+            "current_a": 12.85,
+            "temperature_c": 42.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T02:00:00",
+            "value": 275.01,
+            "percentage": 0.07,
+            "voltage_v": 239.14,
+            "current_a": 1.15,
+            "temperature_c": 38.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T03:00:00",
+            "value": 1175.86,
+            "percentage": 0.29,
+            "voltage_v": 227.88,
+            "current_a": 5.16,
+            "temperature_c": 21.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T04:00:00",
+            "value": 3027.07,
+            "percentage": 0.76,
+            "voltage_v": 233.57,
+            "current_a": 12.96,
+            "temperature_c": 23.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T05:00:00",
+            "value": 2361.7,
+            "percentage": 0.59,
+            "voltage_v": 230.41,
+            "current_a": 10.25,
+            "temperature_c": 40.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T06:00:00",
+            "value": 400.15,
+            "percentage": 0.1,
+            "voltage_v": 235.38,
+            "current_a": 1.7,
+            "temperature_c": 39.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T07:00:00",
+            "value": 853.92,
+            "percentage": 0.21,
+            "voltage_v": 230.79,
+            "current_a": 3.7,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T08:00:00",
+            "value": 2393.66,
+            "percentage": 0.6,
+            "voltage_v": 230.16,
+            "current_a": 10.4,
+            "temperature_c": 29.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T09:00:00",
+            "value": 1534.81,
+            "percentage": 0.38,
+            "voltage_v": 237.22,
+            "current_a": 6.47,
+            "temperature_c": 44.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T10:00:00",
+            "value": 654.04,
+            "percentage": 0.16,
+            "voltage_v": 227.89,
+            "current_a": 2.87,
+            "temperature_c": 39.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T11:00:00",
+            "value": 1356.74,
+            "percentage": 0.34,
+            "voltage_v": 234.73,
+            "current_a": 5.78,
+            "temperature_c": 42.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T12:00:00",
+            "value": 802.61,
+            "percentage": 0.2,
+            "voltage_v": 234.68,
+            "current_a": 3.42,
+            "temperature_c": 39.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T13:00:00",
+            "value": 2143.53,
+            "percentage": 0.54,
+            "voltage_v": 233.5,
+            "current_a": 9.18,
+            "temperature_c": 32.5,
+            "status": "active"
+          },
+          {
             "timestamp": "2025-12-17T14:00:00",
-            "value": 2624.76,
-            "percentage": 0.66,
-            "voltage_v": 231.46,
-            "current_a": 11.34,
-            "temperature_c": 26.7,
+            "value": 265.41,
+            "percentage": 0.07,
+            "voltage_v": 230.79,
+            "current_a": 1.15,
+            "temperature_c": 31.9,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T15:00:00",
-            "value": 1562.8,
-            "percentage": 0.39,
-            "voltage_v": 232.56,
-            "current_a": 6.72,
-            "temperature_c": 31.3,
+            "value": 2941.11,
+            "percentage": 0.74,
+            "voltage_v": 224.17,
+            "current_a": 13.12,
+            "temperature_c": 40.8,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T16:00:00",
-            "value": 2819.39,
-            "percentage": 0.7,
-            "voltage_v": 239.54,
-            "current_a": 11.77,
-            "temperature_c": 43.8,
+            "value": 2193.83,
+            "percentage": 0.55,
+            "voltage_v": 236.15,
+            "current_a": 9.29,
+            "temperature_c": 23.5,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T17:00:00",
-            "value": 3170.58,
-            "percentage": 0.79,
-            "voltage_v": 239.47,
-            "current_a": 13.24,
-            "temperature_c": 21.3,
+            "value": 1043.69,
+            "percentage": 0.26,
+            "voltage_v": 227.88,
+            "current_a": 4.58,
+            "temperature_c": 23.0,
             "status": "active"
           }
         ]
@@ -457,219 +2275,1128 @@
         "label": "Living Room Heater",
         "readings": [
           {
-            "timestamp": "2025-12-16T18:00:00",
-            "value": 3454.49,
-            "percentage": 0.86,
-            "voltage_v": 234.68,
-            "current_a": 14.72,
-            "temperature_c": 41.4,
+            "timestamp": "2025-12-12T13:00:00",
+            "value": 2903.6,
+            "percentage": 0.73,
+            "voltage_v": 235.3,
+            "current_a": 12.34,
+            "temperature_c": 21.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T19:00:00",
-            "value": 2298.31,
+            "timestamp": "2025-12-12T14:00:00",
+            "value": 159.13,
+            "percentage": 0.04,
+            "voltage_v": 227.33,
+            "current_a": 0.7,
+            "temperature_c": 40.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T15:00:00",
+            "value": 2280.54,
             "percentage": 0.57,
-            "voltage_v": 222.92,
-            "current_a": 10.31,
-            "temperature_c": 21.0,
+            "voltage_v": 226.02,
+            "current_a": 10.09,
+            "temperature_c": 34.9,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T20:00:00",
-            "value": 3060.22,
-            "percentage": 0.77,
-            "voltage_v": 234.32,
-            "current_a": 13.06,
-            "temperature_c": 42.9,
+            "timestamp": "2025-12-12T16:00:00",
+            "value": 2604.11,
+            "percentage": 0.65,
+            "voltage_v": 232.51,
+            "current_a": 11.2,
+            "temperature_c": 22.6,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T21:00:00",
-            "value": 2744.2,
-            "percentage": 0.69,
-            "voltage_v": 235.15,
-            "current_a": 11.67,
-            "temperature_c": 33.6,
+            "timestamp": "2025-12-12T17:00:00",
+            "value": 3356.92,
+            "percentage": 0.84,
+            "voltage_v": 226.36,
+            "current_a": 14.83,
+            "temperature_c": 40.2,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-12T18:00:00",
+            "value": 1260.92,
+            "percentage": 0.32,
+            "voltage_v": 220.44,
+            "current_a": 5.72,
+            "temperature_c": 26.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T22:00:00",
-            "value": 2483.51,
-            "percentage": 0.62,
-            "voltage_v": 236.3,
-            "current_a": 10.51,
+            "timestamp": "2025-12-12T19:00:00",
+            "value": 3332.19,
+            "percentage": 0.83,
+            "voltage_v": 233.51,
+            "current_a": 14.27,
+            "temperature_c": 35.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T20:00:00",
+            "value": 2636.26,
+            "percentage": 0.66,
+            "voltage_v": 229.24,
+            "current_a": 11.5,
+            "temperature_c": 39.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T21:00:00",
+            "value": 141.45,
+            "percentage": 0.04,
+            "voltage_v": 239.75,
+            "current_a": 0.59,
+            "temperature_c": 40.9,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-12T22:00:00",
+            "value": 3237.03,
+            "percentage": 0.81,
+            "voltage_v": 232.88,
+            "current_a": 13.9,
+            "temperature_c": 32.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T23:00:00",
+            "value": 2655.74,
+            "percentage": 0.66,
+            "voltage_v": 220.76,
+            "current_a": 12.03,
+            "temperature_c": 42.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T00:00:00",
+            "value": 2938.59,
+            "percentage": 0.73,
+            "voltage_v": 221.78,
+            "current_a": 13.25,
+            "temperature_c": 39.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T01:00:00",
+            "value": 1273.85,
+            "percentage": 0.32,
+            "voltage_v": 220.39,
+            "current_a": 5.78,
+            "temperature_c": 38.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T02:00:00",
+            "value": 778.05,
+            "percentage": 0.19,
+            "voltage_v": 224.87,
+            "current_a": 3.46,
+            "temperature_c": 23.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T03:00:00",
+            "value": 1275.46,
+            "percentage": 0.32,
+            "voltage_v": 221.05,
+            "current_a": 5.77,
+            "temperature_c": 20.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T04:00:00",
+            "value": 3005.14,
+            "percentage": 0.75,
+            "voltage_v": 225.95,
+            "current_a": 13.3,
+            "temperature_c": 28.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T05:00:00",
+            "value": 3290.79,
+            "percentage": 0.82,
+            "voltage_v": 235.73,
+            "current_a": 13.96,
+            "temperature_c": 40.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T06:00:00",
+            "value": 1479.23,
+            "percentage": 0.37,
+            "voltage_v": 220.78,
+            "current_a": 6.7,
+            "temperature_c": 23.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T07:00:00",
+            "value": 2538.93,
+            "percentage": 0.63,
+            "voltage_v": 226.69,
+            "current_a": 11.2,
+            "temperature_c": 34.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T08:00:00",
+            "value": 3334.47,
+            "percentage": 0.83,
+            "voltage_v": 237.16,
+            "current_a": 14.06,
+            "temperature_c": 40.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T09:00:00",
+            "value": 3275.81,
+            "percentage": 0.82,
+            "voltage_v": 226.7,
+            "current_a": 14.45,
+            "temperature_c": 30.0,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T10:00:00",
+            "value": 1370.05,
+            "percentage": 0.34,
+            "voltage_v": 235.0,
+            "current_a": 5.83,
+            "temperature_c": 36.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T11:00:00",
+            "value": 1600.57,
+            "percentage": 0.4,
+            "voltage_v": 226.71,
+            "current_a": 7.06,
+            "temperature_c": 23.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T12:00:00",
+            "value": 2041.68,
+            "percentage": 0.51,
+            "voltage_v": 225.85,
+            "current_a": 9.04,
+            "temperature_c": 20.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T13:00:00",
+            "value": 203.06,
+            "percentage": 0.05,
+            "voltage_v": 238.9,
+            "current_a": 0.85,
+            "temperature_c": 38.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T14:00:00",
+            "value": 210.03,
+            "percentage": 0.05,
+            "voltage_v": 233.37,
+            "current_a": 0.9,
+            "temperature_c": 27.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T15:00:00",
+            "value": 3397.1,
+            "percentage": 0.85,
+            "voltage_v": 239.57,
+            "current_a": 14.18,
+            "temperature_c": 44.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T16:00:00",
+            "value": 3431.01,
+            "percentage": 0.86,
+            "voltage_v": 234.84,
+            "current_a": 14.61,
+            "temperature_c": 24.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T17:00:00",
+            "value": 2519.91,
+            "percentage": 0.63,
+            "voltage_v": 228.46,
+            "current_a": 11.03,
+            "temperature_c": 26.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T18:00:00",
+            "value": 933.59,
+            "percentage": 0.23,
+            "voltage_v": 228.82,
+            "current_a": 4.08,
+            "temperature_c": 25.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T19:00:00",
+            "value": 1691.68,
+            "percentage": 0.42,
+            "voltage_v": 226.16,
+            "current_a": 7.48,
+            "temperature_c": 36.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T20:00:00",
+            "value": 2260.71,
+            "percentage": 0.57,
+            "voltage_v": 225.62,
+            "current_a": 10.02,
+            "temperature_c": 27.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T21:00:00",
+            "value": 1106.99,
+            "percentage": 0.28,
+            "voltage_v": 229.19,
+            "current_a": 4.83,
+            "temperature_c": 28.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T22:00:00",
+            "value": 648.48,
+            "percentage": 0.16,
+            "voltage_v": 236.67,
+            "current_a": 2.74,
+            "temperature_c": 38.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T23:00:00",
+            "value": 1202.83,
+            "percentage": 0.3,
+            "voltage_v": 233.56,
+            "current_a": 5.15,
+            "temperature_c": 32.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T00:00:00",
+            "value": 216.1,
+            "percentage": 0.05,
+            "voltage_v": 225.1,
+            "current_a": 0.96,
+            "temperature_c": 35.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T01:00:00",
+            "value": 667.88,
+            "percentage": 0.17,
+            "voltage_v": 238.53,
+            "current_a": 2.8,
+            "temperature_c": 43.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T02:00:00",
+            "value": 1206.59,
+            "percentage": 0.3,
+            "voltage_v": 224.69,
+            "current_a": 5.37,
+            "temperature_c": 35.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T03:00:00",
+            "value": 281.17,
+            "percentage": 0.07,
+            "voltage_v": 230.47,
+            "current_a": 1.22,
+            "temperature_c": 39.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T04:00:00",
+            "value": 930.06,
+            "percentage": 0.23,
+            "voltage_v": 239.09,
+            "current_a": 3.89,
+            "temperature_c": 29.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T05:00:00",
+            "value": 1779.47,
+            "percentage": 0.44,
+            "voltage_v": 237.58,
+            "current_a": 7.49,
+            "temperature_c": 27.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T06:00:00",
+            "value": 783.88,
+            "percentage": 0.2,
+            "voltage_v": 238.26,
+            "current_a": 3.29,
+            "temperature_c": 23.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T07:00:00",
+            "value": 1850.45,
+            "percentage": 0.46,
+            "voltage_v": 230.73,
+            "current_a": 8.02,
             "temperature_c": 40.0,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T23:00:00",
-            "value": 1088.88,
-            "percentage": 0.27,
-            "voltage_v": 227.8,
-            "current_a": 4.78,
+            "timestamp": "2025-12-14T08:00:00",
+            "value": 2603.55,
+            "percentage": 0.65,
+            "voltage_v": 237.55,
+            "current_a": 10.96,
+            "temperature_c": 43.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T09:00:00",
+            "value": 1141.31,
+            "percentage": 0.29,
+            "voltage_v": 226.9,
+            "current_a": 5.03,
+            "temperature_c": 26.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T10:00:00",
+            "value": 2090.74,
+            "percentage": 0.52,
+            "voltage_v": 229.5,
+            "current_a": 9.11,
+            "temperature_c": 21.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T11:00:00",
+            "value": 784.57,
+            "percentage": 0.2,
+            "voltage_v": 238.47,
+            "current_a": 3.29,
             "temperature_c": 34.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T00:00:00",
-            "value": 1972.88,
-            "percentage": 0.49,
-            "voltage_v": 235.99,
-            "current_a": 8.36,
-            "temperature_c": 27.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T01:00:00",
-            "value": 2977.47,
-            "percentage": 0.74,
-            "voltage_v": 231.71,
-            "current_a": 12.85,
-            "temperature_c": 24.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T02:00:00",
-            "value": 2804.95,
-            "percentage": 0.7,
-            "voltage_v": 223.68,
-            "current_a": 12.54,
-            "temperature_c": 21.9,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T03:00:00",
-            "value": 2164.13,
-            "percentage": 0.54,
-            "voltage_v": 224.03,
-            "current_a": 9.66,
-            "temperature_c": 20.2,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T04:00:00",
-            "value": 2983.63,
-            "percentage": 0.75,
-            "voltage_v": 234.01,
-            "current_a": 12.75,
-            "temperature_c": 24.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T05:00:00",
-            "value": 1160.91,
-            "percentage": 0.29,
-            "voltage_v": 225.42,
-            "current_a": 5.15,
-            "temperature_c": 34.8,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T06:00:00",
-            "value": 1518.86,
-            "percentage": 0.38,
-            "voltage_v": 239.19,
-            "current_a": 6.35,
-            "temperature_c": 26.3,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T07:00:00",
-            "value": 1845.53,
-            "percentage": 0.46,
-            "voltage_v": 231.27,
-            "current_a": 7.98,
-            "temperature_c": 30.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T08:00:00",
-            "value": 1163.17,
-            "percentage": 0.29,
-            "voltage_v": 235.46,
-            "current_a": 4.94,
-            "temperature_c": 25.5,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T09:00:00",
-            "value": 2276.21,
-            "percentage": 0.57,
-            "voltage_v": 229.92,
-            "current_a": 9.9,
-            "temperature_c": 29.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T10:00:00",
-            "value": 651.44,
+            "timestamp": "2025-12-14T12:00:00",
+            "value": 629.97,
             "percentage": 0.16,
-            "voltage_v": 220.08,
-            "current_a": 2.96,
-            "temperature_c": 20.5,
+            "voltage_v": 224.99,
+            "current_a": 2.8,
+            "temperature_c": 23.5,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T11:00:00",
-            "value": 653.39,
-            "percentage": 0.16,
-            "voltage_v": 222.24,
-            "current_a": 2.94,
+            "timestamp": "2025-12-14T13:00:00",
+            "value": 3104.32,
+            "percentage": 0.78,
+            "voltage_v": 238.61,
+            "current_a": 13.01,
             "temperature_c": 26.4,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T12:00:00",
-            "value": 2554.49,
-            "percentage": 0.64,
-            "voltage_v": 222.13,
-            "current_a": 11.5,
+            "timestamp": "2025-12-14T14:00:00",
+            "value": 2378.87,
+            "percentage": 0.59,
+            "voltage_v": 228.08,
+            "current_a": 10.43,
+            "temperature_c": 40.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T15:00:00",
+            "value": 3072.24,
+            "percentage": 0.77,
+            "voltage_v": 228.08,
+            "current_a": 13.47,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T16:00:00",
+            "value": 1375.29,
+            "percentage": 0.34,
+            "voltage_v": 222.9,
+            "current_a": 6.17,
+            "temperature_c": 29.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T17:00:00",
+            "value": 2400.3,
+            "percentage": 0.6,
+            "voltage_v": 231.02,
+            "current_a": 10.39,
+            "temperature_c": 38.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T18:00:00",
+            "value": 1279.44,
+            "percentage": 0.32,
+            "voltage_v": 228.88,
+            "current_a": 5.59,
+            "temperature_c": 39.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T19:00:00",
+            "value": 1399.35,
+            "percentage": 0.35,
+            "voltage_v": 238.39,
+            "current_a": 5.87,
+            "temperature_c": 37.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T20:00:00",
+            "value": 3383.95,
+            "percentage": 0.85,
+            "voltage_v": 226.2,
+            "current_a": 14.96,
+            "temperature_c": 43.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T21:00:00",
+            "value": 630.82,
+            "percentage": 0.16,
+            "voltage_v": 237.15,
+            "current_a": 2.66,
+            "temperature_c": 27.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T22:00:00",
+            "value": 2907.73,
+            "percentage": 0.73,
+            "voltage_v": 233.74,
+            "current_a": 12.44,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T23:00:00",
+            "value": 1322.7,
+            "percentage": 0.33,
+            "voltage_v": 239.62,
+            "current_a": 5.52,
+            "temperature_c": 31.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T00:00:00",
+            "value": 2078.13,
+            "percentage": 0.52,
+            "voltage_v": 237.23,
+            "current_a": 8.76,
+            "temperature_c": 29.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T01:00:00",
+            "value": 3023.12,
+            "percentage": 0.76,
+            "voltage_v": 229.72,
+            "current_a": 13.16,
+            "temperature_c": 29.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T02:00:00",
+            "value": 3043.19,
+            "percentage": 0.76,
+            "voltage_v": 239.81,
+            "current_a": 12.69,
+            "temperature_c": 26.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T03:00:00",
+            "value": 3269.47,
+            "percentage": 0.82,
+            "voltage_v": 223.63,
+            "current_a": 14.62,
             "temperature_c": 37.7,
             "status": "active"
           },
           {
+            "timestamp": "2025-12-15T04:00:00",
+            "value": 1973.55,
+            "percentage": 0.49,
+            "voltage_v": 229.75,
+            "current_a": 8.59,
+            "temperature_c": 41.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T05:00:00",
+            "value": 1128.99,
+            "percentage": 0.28,
+            "voltage_v": 236.19,
+            "current_a": 4.78,
+            "temperature_c": 27.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T06:00:00",
+            "value": 1891.17,
+            "percentage": 0.47,
+            "voltage_v": 230.63,
+            "current_a": 8.2,
+            "temperature_c": 33.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T07:00:00",
+            "value": 550.35,
+            "percentage": 0.14,
+            "voltage_v": 220.14,
+            "current_a": 2.5,
+            "temperature_c": 30.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T08:00:00",
+            "value": 1054.9,
+            "percentage": 0.26,
+            "voltage_v": 237.59,
+            "current_a": 4.44,
+            "temperature_c": 44.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T09:00:00",
+            "value": 635.48,
+            "percentage": 0.16,
+            "voltage_v": 224.55,
+            "current_a": 2.83,
+            "temperature_c": 44.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T10:00:00",
+            "value": 3451.78,
+            "percentage": 0.86,
+            "voltage_v": 236.91,
+            "current_a": 14.57,
+            "temperature_c": 29.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T11:00:00",
+            "value": 403.52,
+            "percentage": 0.1,
+            "voltage_v": 224.18,
+            "current_a": 1.8,
+            "temperature_c": 29.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T12:00:00",
+            "value": 443.31,
+            "percentage": 0.11,
+            "voltage_v": 232.1,
+            "current_a": 1.91,
+            "temperature_c": 27.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T13:00:00",
+            "value": 732.65,
+            "percentage": 0.18,
+            "voltage_v": 224.74,
+            "current_a": 3.26,
+            "temperature_c": 23.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T14:00:00",
+            "value": 881.64,
+            "percentage": 0.22,
+            "voltage_v": 238.28,
+            "current_a": 3.7,
+            "temperature_c": 22.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T15:00:00",
+            "value": 237.18,
+            "percentage": 0.06,
+            "voltage_v": 234.83,
+            "current_a": 1.01,
+            "temperature_c": 38.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T16:00:00",
+            "value": 2645.53,
+            "percentage": 0.66,
+            "voltage_v": 223.44,
+            "current_a": 11.84,
+            "temperature_c": 22.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T17:00:00",
+            "value": 1823.49,
+            "percentage": 0.46,
+            "voltage_v": 222.92,
+            "current_a": 8.18,
+            "temperature_c": 33.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T18:00:00",
+            "value": 3027.51,
+            "percentage": 0.76,
+            "voltage_v": 229.01,
+            "current_a": 13.22,
+            "temperature_c": 41.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T19:00:00",
+            "value": 364.69,
+            "percentage": 0.09,
+            "voltage_v": 236.81,
+            "current_a": 1.54,
+            "temperature_c": 32.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T20:00:00",
+            "value": 2860.86,
+            "percentage": 0.72,
+            "voltage_v": 223.33,
+            "current_a": 12.81,
+            "temperature_c": 21.9,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T21:00:00",
+            "value": 2651.75,
+            "percentage": 0.66,
+            "voltage_v": 239.76,
+            "current_a": 11.06,
+            "temperature_c": 22.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T22:00:00",
+            "value": 406.85,
+            "percentage": 0.1,
+            "voltage_v": 224.78,
+            "current_a": 1.81,
+            "temperature_c": 21.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T23:00:00",
+            "value": 1267.63,
+            "percentage": 0.32,
+            "voltage_v": 233.88,
+            "current_a": 5.42,
+            "temperature_c": 25.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T00:00:00",
+            "value": 3020.34,
+            "percentage": 0.76,
+            "voltage_v": 230.56,
+            "current_a": 13.1,
+            "temperature_c": 30.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T01:00:00",
+            "value": 2425.43,
+            "percentage": 0.61,
+            "voltage_v": 227.74,
+            "current_a": 10.65,
+            "temperature_c": 21.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T02:00:00",
+            "value": 2030.82,
+            "percentage": 0.51,
+            "voltage_v": 233.16,
+            "current_a": 8.71,
+            "temperature_c": 40.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T03:00:00",
+            "value": 1848.01,
+            "percentage": 0.46,
+            "voltage_v": 223.73,
+            "current_a": 8.26,
+            "temperature_c": 23.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T04:00:00",
+            "value": 729.4,
+            "percentage": 0.18,
+            "voltage_v": 235.29,
+            "current_a": 3.1,
+            "temperature_c": 31.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T05:00:00",
+            "value": 158.35,
+            "percentage": 0.04,
+            "voltage_v": 239.93,
+            "current_a": 0.66,
+            "temperature_c": 30.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T06:00:00",
+            "value": 3077.31,
+            "percentage": 0.77,
+            "voltage_v": 221.23,
+            "current_a": 13.91,
+            "temperature_c": 27.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T07:00:00",
+            "value": 208.92,
+            "percentage": 0.05,
+            "voltage_v": 227.09,
+            "current_a": 0.92,
+            "temperature_c": 22.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T08:00:00",
+            "value": 2909.29,
+            "percentage": 0.73,
+            "voltage_v": 229.62,
+            "current_a": 12.67,
+            "temperature_c": 42.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T09:00:00",
+            "value": 886.73,
+            "percentage": 0.22,
+            "voltage_v": 236.46,
+            "current_a": 3.75,
+            "temperature_c": 41.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T10:00:00",
+            "value": 2806.86,
+            "percentage": 0.7,
+            "voltage_v": 227.46,
+            "current_a": 12.34,
+            "temperature_c": 26.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T11:00:00",
+            "value": 663.91,
+            "percentage": 0.17,
+            "voltage_v": 237.96,
+            "current_a": 2.79,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T12:00:00",
+            "value": 3201.94,
+            "percentage": 0.8,
+            "voltage_v": 234.06,
+            "current_a": 13.68,
+            "temperature_c": 43.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T13:00:00",
+            "value": 1324.01,
+            "percentage": 0.33,
+            "voltage_v": 224.79,
+            "current_a": 5.89,
+            "temperature_c": 38.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T14:00:00",
+            "value": 2950.46,
+            "percentage": 0.74,
+            "voltage_v": 221.34,
+            "current_a": 13.33,
+            "temperature_c": 20.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T15:00:00",
+            "value": 3119.3,
+            "percentage": 0.78,
+            "voltage_v": 225.22,
+            "current_a": 13.85,
+            "temperature_c": 38.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T16:00:00",
+            "value": 1544.39,
+            "percentage": 0.39,
+            "voltage_v": 238.7,
+            "current_a": 6.47,
+            "temperature_c": 40.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T17:00:00",
+            "value": 857.86,
+            "percentage": 0.21,
+            "voltage_v": 235.03,
+            "current_a": 3.65,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T18:00:00",
+            "value": 1900.86,
+            "percentage": 0.48,
+            "voltage_v": 236.72,
+            "current_a": 8.03,
+            "temperature_c": 33.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T19:00:00",
+            "value": 353.41,
+            "percentage": 0.09,
+            "voltage_v": 237.19,
+            "current_a": 1.49,
+            "temperature_c": 39.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T20:00:00",
+            "value": 413.22,
+            "percentage": 0.1,
+            "voltage_v": 222.16,
+            "current_a": 1.86,
+            "temperature_c": 40.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T21:00:00",
+            "value": 2586.21,
+            "percentage": 0.65,
+            "voltage_v": 230.09,
+            "current_a": 11.24,
+            "temperature_c": 37.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T22:00:00",
+            "value": 3131.09,
+            "percentage": 0.78,
+            "voltage_v": 227.55,
+            "current_a": 13.76,
+            "temperature_c": 28.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T23:00:00",
+            "value": 3298.68,
+            "percentage": 0.82,
+            "voltage_v": 238.0,
+            "current_a": 13.86,
+            "temperature_c": 39.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T00:00:00",
+            "value": 1499.7,
+            "percentage": 0.37,
+            "voltage_v": 237.67,
+            "current_a": 6.31,
+            "temperature_c": 26.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T01:00:00",
+            "value": 945.71,
+            "percentage": 0.24,
+            "voltage_v": 230.66,
+            "current_a": 4.1,
+            "temperature_c": 42.0,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-17T02:00:00",
+            "value": 2240.31,
+            "percentage": 0.56,
+            "voltage_v": 228.37,
+            "current_a": 9.81,
+            "temperature_c": 40.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T03:00:00",
+            "value": 3180.1,
+            "percentage": 0.8,
+            "voltage_v": 220.84,
+            "current_a": 14.4,
+            "temperature_c": 39.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T04:00:00",
+            "value": 231.38,
+            "percentage": 0.06,
+            "voltage_v": 222.48,
+            "current_a": 1.04,
+            "temperature_c": 44.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T05:00:00",
+            "value": 1277.28,
+            "percentage": 0.32,
+            "voltage_v": 227.68,
+            "current_a": 5.61,
+            "temperature_c": 22.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T06:00:00",
+            "value": 2282.52,
+            "percentage": 0.57,
+            "voltage_v": 223.12,
+            "current_a": 10.23,
+            "temperature_c": 36.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T07:00:00",
+            "value": 799.4,
+            "percentage": 0.2,
+            "voltage_v": 220.83,
+            "current_a": 3.62,
+            "temperature_c": 44.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T08:00:00",
+            "value": 236.03,
+            "percentage": 0.06,
+            "voltage_v": 233.69,
+            "current_a": 1.01,
+            "temperature_c": 36.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T09:00:00",
+            "value": 3095.31,
+            "percentage": 0.77,
+            "voltage_v": 225.77,
+            "current_a": 13.71,
+            "temperature_c": 23.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T10:00:00",
+            "value": 1908.13,
+            "percentage": 0.48,
+            "voltage_v": 224.75,
+            "current_a": 8.49,
+            "temperature_c": 37.4,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-17T11:00:00",
+            "value": 3050.65,
+            "percentage": 0.76,
+            "voltage_v": 235.39,
+            "current_a": 12.96,
+            "temperature_c": 26.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T12:00:00",
+            "value": 3012.4,
+            "percentage": 0.75,
+            "voltage_v": 239.65,
+            "current_a": 12.57,
+            "temperature_c": 33.9,
+            "status": "active"
+          },
+          {
             "timestamp": "2025-12-17T13:00:00",
-            "value": 2385.1,
-            "percentage": 0.6,
-            "voltage_v": 226.29,
-            "current_a": 10.54,
-            "temperature_c": 23.3,
+            "value": 2007.63,
+            "percentage": 0.5,
+            "voltage_v": 234.81,
+            "current_a": 8.55,
+            "temperature_c": 26.2,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T14:00:00",
-            "value": 1446.19,
-            "percentage": 0.36,
-            "voltage_v": 237.47,
-            "current_a": 6.09,
-            "temperature_c": 41.9,
+            "value": 3265.31,
+            "percentage": 0.82,
+            "voltage_v": 234.24,
+            "current_a": 13.94,
+            "temperature_c": 26.8,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T15:00:00",
-            "value": 1159.39,
-            "percentage": 0.29,
-            "voltage_v": 222.96,
-            "current_a": 5.2,
-            "temperature_c": 37.5,
+            "value": 1419.69,
+            "percentage": 0.35,
+            "voltage_v": 237.01,
+            "current_a": 5.99,
+            "temperature_c": 40.1,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T16:00:00",
-            "value": 2616.57,
-            "percentage": 0.65,
-            "voltage_v": 227.33,
-            "current_a": 11.51,
-            "temperature_c": 37.2,
+            "value": 1505.32,
+            "percentage": 0.38,
+            "voltage_v": 238.94,
+            "current_a": 6.3,
+            "temperature_c": 42.6,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T17:00:00",
-            "value": 2767.55,
-            "percentage": 0.69,
-            "voltage_v": 223.01,
-            "current_a": 12.41,
-            "temperature_c": 22.9,
+            "value": 346.9,
+            "percentage": 0.09,
+            "voltage_v": 225.26,
+            "current_a": 1.54,
+            "temperature_c": 32.7,
             "status": "active"
           }
         ]
@@ -682,219 +3409,1128 @@
         "label": "Bedroom AC",
         "readings": [
           {
-            "timestamp": "2025-12-16T18:00:00",
-            "value": 2853.35,
-            "percentage": 0.71,
-            "voltage_v": 221.19,
-            "current_a": 12.9,
-            "temperature_c": 44.9,
+            "timestamp": "2025-12-12T13:00:00",
+            "value": 1974.85,
+            "percentage": 0.49,
+            "voltage_v": 227.78,
+            "current_a": 8.67,
+            "temperature_c": 24.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T19:00:00",
-            "value": 421.84,
+            "timestamp": "2025-12-12T14:00:00",
+            "value": 428.43,
             "percentage": 0.11,
-            "voltage_v": 231.78,
-            "current_a": 1.82,
+            "voltage_v": 223.14,
+            "current_a": 1.92,
+            "temperature_c": 25.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T15:00:00",
+            "value": 2640.28,
+            "percentage": 0.66,
+            "voltage_v": 239.59,
+            "current_a": 11.02,
+            "temperature_c": 40.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T16:00:00",
+            "value": 997.92,
+            "percentage": 0.25,
+            "voltage_v": 221.76,
+            "current_a": 4.5,
             "temperature_c": 38.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T20:00:00",
-            "value": 1199.88,
-            "percentage": 0.3,
-            "voltage_v": 239.02,
-            "current_a": 5.02,
-            "temperature_c": 40.8,
+            "timestamp": "2025-12-12T17:00:00",
+            "value": 1905.64,
+            "percentage": 0.48,
+            "voltage_v": 237.02,
+            "current_a": 8.04,
+            "temperature_c": 20.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-16T21:00:00",
-            "value": 2772.18,
-            "percentage": 0.69,
-            "voltage_v": 235.73,
-            "current_a": 11.76,
-            "temperature_c": 29.4,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T22:00:00",
-            "value": 200.99,
-            "percentage": 0.05,
-            "voltage_v": 239.27,
-            "current_a": 0.84,
-            "temperature_c": 26.2,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T23:00:00",
-            "value": 3187.91,
-            "percentage": 0.8,
-            "voltage_v": 223.87,
-            "current_a": 14.24,
-            "temperature_c": 41.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T00:00:00",
-            "value": 3111.75,
-            "percentage": 0.78,
-            "voltage_v": 232.22,
-            "current_a": 13.4,
-            "temperature_c": 40.5,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T01:00:00",
-            "value": 2388.7,
-            "percentage": 0.6,
-            "voltage_v": 238.87,
-            "current_a": 10.0,
-            "temperature_c": 24.7,
-            "status": "error"
-          },
-          {
-            "timestamp": "2025-12-17T02:00:00",
-            "value": 331.79,
+            "timestamp": "2025-12-12T18:00:00",
+            "value": 318.11,
             "percentage": 0.08,
-            "voltage_v": 230.41,
-            "current_a": 1.44,
-            "temperature_c": 36.4,
+            "voltage_v": 225.61,
+            "current_a": 1.41,
+            "temperature_c": 44.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T03:00:00",
-            "value": 3208.65,
-            "percentage": 0.8,
-            "voltage_v": 239.63,
-            "current_a": 13.39,
-            "temperature_c": 32.7,
+            "timestamp": "2025-12-12T19:00:00",
+            "value": 2142.69,
+            "percentage": 0.54,
+            "voltage_v": 223.43,
+            "current_a": 9.59,
+            "temperature_c": 20.5,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T04:00:00",
-            "value": 1388.31,
-            "percentage": 0.35,
-            "voltage_v": 231.0,
-            "current_a": 6.01,
-            "temperature_c": 26.6,
+            "timestamp": "2025-12-12T20:00:00",
+            "value": 2929.85,
+            "percentage": 0.73,
+            "voltage_v": 225.2,
+            "current_a": 13.01,
+            "temperature_c": 28.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T05:00:00",
-            "value": 2329.3,
-            "percentage": 0.58,
-            "voltage_v": 237.2,
-            "current_a": 9.82,
-            "temperature_c": 26.0,
+            "timestamp": "2025-12-12T21:00:00",
+            "value": 2047.56,
+            "percentage": 0.51,
+            "voltage_v": 220.88,
+            "current_a": 9.27,
+            "temperature_c": 26.1,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T06:00:00",
-            "value": 2516.16,
-            "percentage": 0.63,
-            "voltage_v": 233.41,
-            "current_a": 10.78,
-            "temperature_c": 44.9,
+            "timestamp": "2025-12-12T22:00:00",
+            "value": 1829.93,
+            "percentage": 0.46,
+            "voltage_v": 220.74,
+            "current_a": 8.29,
+            "temperature_c": 20.9,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T07:00:00",
-            "value": 1392.57,
-            "percentage": 0.35,
-            "voltage_v": 234.44,
-            "current_a": 5.94,
-            "temperature_c": 44.7,
+            "timestamp": "2025-12-12T23:00:00",
+            "value": 843.88,
+            "percentage": 0.21,
+            "voltage_v": 220.91,
+            "current_a": 3.82,
+            "temperature_c": 38.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T00:00:00",
+            "value": 352.14,
+            "percentage": 0.09,
+            "voltage_v": 231.67,
+            "current_a": 1.52,
+            "temperature_c": 44.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T01:00:00",
+            "value": 2731.94,
+            "percentage": 0.68,
+            "voltage_v": 221.21,
+            "current_a": 12.35,
+            "temperature_c": 23.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T02:00:00",
+            "value": 2372.51,
+            "percentage": 0.59,
+            "voltage_v": 239.89,
+            "current_a": 9.89,
+            "temperature_c": 22.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T03:00:00",
+            "value": 833.43,
+            "percentage": 0.21,
+            "voltage_v": 230.23,
+            "current_a": 3.62,
+            "temperature_c": 33.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T04:00:00",
+            "value": 1726.35,
+            "percentage": 0.43,
+            "voltage_v": 230.18,
+            "current_a": 7.5,
+            "temperature_c": 27.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T05:00:00",
+            "value": 2478.83,
+            "percentage": 0.62,
+            "voltage_v": 238.12,
+            "current_a": 10.41,
+            "temperature_c": 39.7,
             "status": "error"
           },
           {
-            "timestamp": "2025-12-17T08:00:00",
-            "value": 2509.29,
-            "percentage": 0.63,
-            "voltage_v": 225.25,
-            "current_a": 11.14,
-            "temperature_c": 30.2,
+            "timestamp": "2025-12-13T06:00:00",
+            "value": 1391.24,
+            "percentage": 0.35,
+            "voltage_v": 230.72,
+            "current_a": 6.03,
+            "temperature_c": 22.3,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T09:00:00",
-            "value": 1431.63,
-            "percentage": 0.36,
-            "voltage_v": 228.33,
-            "current_a": 6.27,
-            "temperature_c": 29.6,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T10:00:00",
-            "value": 3337.39,
+            "timestamp": "2025-12-13T07:00:00",
+            "value": 3312.7,
             "percentage": 0.83,
-            "voltage_v": 224.74,
-            "current_a": 14.85,
-            "temperature_c": 28.8,
+            "voltage_v": 229.57,
+            "current_a": 14.43,
+            "temperature_c": 44.0,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T11:00:00",
-            "value": 1554.31,
-            "percentage": 0.39,
-            "voltage_v": 228.24,
-            "current_a": 6.81,
-            "temperature_c": 37.5,
+            "timestamp": "2025-12-13T08:00:00",
+            "value": 1676.7,
+            "percentage": 0.42,
+            "voltage_v": 222.08,
+            "current_a": 7.55,
+            "temperature_c": 22.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T12:00:00",
-            "value": 1868.84,
-            "percentage": 0.47,
-            "voltage_v": 229.87,
-            "current_a": 8.13,
+            "timestamp": "2025-12-13T09:00:00",
+            "value": 2569.15,
+            "percentage": 0.64,
+            "voltage_v": 223.21,
+            "current_a": 11.51,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T10:00:00",
+            "value": 585.34,
+            "percentage": 0.15,
+            "voltage_v": 224.27,
+            "current_a": 2.61,
             "temperature_c": 40.9,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T13:00:00",
-            "value": 415.66,
+            "timestamp": "2025-12-13T11:00:00",
+            "value": 1767.4,
+            "percentage": 0.44,
+            "voltage_v": 226.3,
+            "current_a": 7.81,
+            "temperature_c": 40.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T12:00:00",
+            "value": 2030.5,
+            "percentage": 0.51,
+            "voltage_v": 236.38,
+            "current_a": 8.59,
+            "temperature_c": 44.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T13:00:00",
+            "value": 381.86,
             "percentage": 0.1,
-            "voltage_v": 225.9,
-            "current_a": 1.84,
-            "temperature_c": 34.6,
+            "voltage_v": 238.66,
+            "current_a": 1.6,
+            "temperature_c": 25.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T14:00:00",
+            "value": 2491.3,
+            "percentage": 0.62,
+            "voltage_v": 228.56,
+            "current_a": 10.9,
+            "temperature_c": 35.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T15:00:00",
+            "value": 2879.41,
+            "percentage": 0.72,
+            "voltage_v": 231.65,
+            "current_a": 12.43,
+            "temperature_c": 34.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T16:00:00",
+            "value": 193.43,
+            "percentage": 0.05,
+            "voltage_v": 233.05,
+            "current_a": 0.83,
+            "temperature_c": 37.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T17:00:00",
+            "value": 1880.56,
+            "percentage": 0.47,
+            "voltage_v": 233.61,
+            "current_a": 8.05,
+            "temperature_c": 29.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T18:00:00",
+            "value": 3235.48,
+            "percentage": 0.81,
+            "voltage_v": 222.37,
+            "current_a": 14.55,
+            "temperature_c": 33.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T19:00:00",
+            "value": 1921.66,
+            "percentage": 0.48,
+            "voltage_v": 236.95,
+            "current_a": 8.11,
+            "temperature_c": 38.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T20:00:00",
+            "value": 2667.44,
+            "percentage": 0.67,
+            "voltage_v": 237.74,
+            "current_a": 11.22,
+            "temperature_c": 31.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T21:00:00",
+            "value": 3199.88,
+            "percentage": 0.8,
+            "voltage_v": 226.3,
+            "current_a": 14.14,
+            "temperature_c": 37.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T22:00:00",
+            "value": 3137.64,
+            "percentage": 0.78,
+            "voltage_v": 220.65,
+            "current_a": 14.22,
+            "temperature_c": 30.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T23:00:00",
+            "value": 2524.53,
+            "percentage": 0.63,
+            "voltage_v": 232.89,
+            "current_a": 10.84,
+            "temperature_c": 25.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T00:00:00",
+            "value": 2845.48,
+            "percentage": 0.71,
+            "voltage_v": 231.34,
+            "current_a": 12.3,
+            "temperature_c": 20.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T01:00:00",
+            "value": 1328.46,
+            "percentage": 0.33,
+            "voltage_v": 226.7,
+            "current_a": 5.86,
+            "temperature_c": 41.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T02:00:00",
+            "value": 1283.74,
+            "percentage": 0.32,
+            "voltage_v": 229.65,
+            "current_a": 5.59,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T03:00:00",
+            "value": 421.38,
+            "percentage": 0.11,
+            "voltage_v": 239.42,
+            "current_a": 1.76,
+            "temperature_c": 44.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T04:00:00",
+            "value": 3126.78,
+            "percentage": 0.78,
+            "voltage_v": 225.76,
+            "current_a": 13.85,
+            "temperature_c": 21.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T05:00:00",
+            "value": 2444.91,
+            "percentage": 0.61,
+            "voltage_v": 226.59,
+            "current_a": 10.79,
+            "temperature_c": 29.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T06:00:00",
+            "value": 1608.89,
+            "percentage": 0.4,
+            "voltage_v": 236.95,
+            "current_a": 6.79,
+            "temperature_c": 28.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T07:00:00",
+            "value": 764.73,
+            "percentage": 0.19,
+            "voltage_v": 234.58,
+            "current_a": 3.26,
+            "temperature_c": 36.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T08:00:00",
+            "value": 1020.54,
+            "percentage": 0.26,
+            "voltage_v": 222.34,
+            "current_a": 4.59,
+            "temperature_c": 20.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T09:00:00",
+            "value": 1073.83,
+            "percentage": 0.27,
+            "voltage_v": 232.43,
+            "current_a": 4.62,
+            "temperature_c": 39.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T10:00:00",
+            "value": 2694.73,
+            "percentage": 0.67,
+            "voltage_v": 229.73,
+            "current_a": 11.73,
+            "temperature_c": 37.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T11:00:00",
+            "value": 577.47,
+            "percentage": 0.14,
+            "voltage_v": 222.96,
+            "current_a": 2.59,
+            "temperature_c": 40.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T12:00:00",
+            "value": 1181.75,
+            "percentage": 0.3,
+            "voltage_v": 234.94,
+            "current_a": 5.03,
+            "temperature_c": 39.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T13:00:00",
+            "value": 2948.47,
+            "percentage": 0.74,
+            "voltage_v": 230.71,
+            "current_a": 12.78,
+            "temperature_c": 33.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T14:00:00",
+            "value": 442.69,
+            "percentage": 0.11,
+            "voltage_v": 228.19,
+            "current_a": 1.94,
+            "temperature_c": 23.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T15:00:00",
+            "value": 1776.47,
+            "percentage": 0.44,
+            "voltage_v": 231.01,
+            "current_a": 7.69,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T16:00:00",
+            "value": 810.19,
+            "percentage": 0.2,
+            "voltage_v": 235.52,
+            "current_a": 3.44,
+            "temperature_c": 23.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T17:00:00",
+            "value": 389.13,
+            "percentage": 0.1,
+            "voltage_v": 223.64,
+            "current_a": 1.74,
+            "temperature_c": 21.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T18:00:00",
+            "value": 2711.57,
+            "percentage": 0.68,
+            "voltage_v": 230.38,
+            "current_a": 11.77,
+            "temperature_c": 33.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T19:00:00",
+            "value": 347.9,
+            "percentage": 0.09,
+            "voltage_v": 228.88,
+            "current_a": 1.52,
+            "temperature_c": 38.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T20:00:00",
+            "value": 504.65,
+            "percentage": 0.13,
+            "voltage_v": 231.49,
+            "current_a": 2.18,
+            "temperature_c": 30.5,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-14T21:00:00",
+            "value": 1417.79,
+            "percentage": 0.35,
+            "voltage_v": 230.16,
+            "current_a": 6.16,
+            "temperature_c": 36.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T22:00:00",
+            "value": 510.19,
+            "percentage": 0.13,
+            "voltage_v": 222.79,
+            "current_a": 2.29,
+            "temperature_c": 25.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T23:00:00",
+            "value": 2924.77,
+            "percentage": 0.73,
+            "voltage_v": 230.66,
+            "current_a": 12.68,
+            "temperature_c": 40.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T00:00:00",
+            "value": 1334.14,
+            "percentage": 0.33,
+            "voltage_v": 233.65,
+            "current_a": 5.71,
+            "temperature_c": 33.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T01:00:00",
+            "value": 3427.21,
+            "percentage": 0.86,
+            "voltage_v": 238.83,
+            "current_a": 14.35,
+            "temperature_c": 35.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T02:00:00",
+            "value": 524.09,
+            "percentage": 0.13,
+            "voltage_v": 223.97,
+            "current_a": 2.34,
+            "temperature_c": 42.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T03:00:00",
+            "value": 2333.37,
+            "percentage": 0.58,
+            "voltage_v": 236.41,
+            "current_a": 9.87,
+            "temperature_c": 39.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T04:00:00",
+            "value": 1961.8,
+            "percentage": 0.49,
+            "voltage_v": 233.27,
+            "current_a": 8.41,
+            "temperature_c": 37.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T05:00:00",
+            "value": 2541.02,
+            "percentage": 0.64,
+            "voltage_v": 238.37,
+            "current_a": 10.66,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T06:00:00",
+            "value": 1475.76,
+            "percentage": 0.37,
+            "voltage_v": 236.88,
+            "current_a": 6.23,
+            "temperature_c": 40.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T07:00:00",
+            "value": 3158.47,
+            "percentage": 0.79,
+            "voltage_v": 235.18,
+            "current_a": 13.43,
+            "temperature_c": 24.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T08:00:00",
+            "value": 1533.24,
+            "percentage": 0.38,
+            "voltage_v": 234.8,
+            "current_a": 6.53,
+            "temperature_c": 39.2,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T09:00:00",
+            "value": 1174.7,
+            "percentage": 0.29,
+            "voltage_v": 238.76,
+            "current_a": 4.92,
+            "temperature_c": 43.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T10:00:00",
+            "value": 1413.04,
+            "percentage": 0.35,
+            "voltage_v": 229.39,
+            "current_a": 6.16,
+            "temperature_c": 31.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T11:00:00",
+            "value": 816.55,
+            "percentage": 0.2,
+            "voltage_v": 220.69,
+            "current_a": 3.7,
+            "temperature_c": 39.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T12:00:00",
+            "value": 1441.4,
+            "percentage": 0.36,
+            "voltage_v": 223.82,
+            "current_a": 6.44,
+            "temperature_c": 29.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T13:00:00",
+            "value": 254.38,
+            "percentage": 0.06,
+            "voltage_v": 231.25,
+            "current_a": 1.1,
+            "temperature_c": 26.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T14:00:00",
+            "value": 2056.57,
+            "percentage": 0.51,
+            "voltage_v": 223.54,
+            "current_a": 9.2,
+            "temperature_c": 36.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T15:00:00",
+            "value": 2846.54,
+            "percentage": 0.71,
+            "voltage_v": 229.56,
+            "current_a": 12.4,
+            "temperature_c": 22.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T16:00:00",
+            "value": 447.42,
+            "percentage": 0.11,
+            "voltage_v": 223.71,
+            "current_a": 2.0,
+            "temperature_c": 27.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T17:00:00",
+            "value": 1314.08,
+            "percentage": 0.33,
+            "voltage_v": 225.4,
+            "current_a": 5.83,
+            "temperature_c": 25.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T18:00:00",
+            "value": 319.02,
+            "percentage": 0.08,
+            "voltage_v": 224.66,
+            "current_a": 1.42,
+            "temperature_c": 25.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T19:00:00",
+            "value": 2567.45,
+            "percentage": 0.64,
+            "voltage_v": 222.29,
+            "current_a": 11.55,
+            "temperature_c": 42.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T20:00:00",
+            "value": 752.86,
+            "percentage": 0.19,
+            "voltage_v": 230.94,
+            "current_a": 3.26,
+            "temperature_c": 31.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T21:00:00",
+            "value": 2600.27,
+            "percentage": 0.65,
+            "voltage_v": 226.9,
+            "current_a": 11.46,
+            "temperature_c": 21.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T22:00:00",
+            "value": 1780.62,
+            "percentage": 0.45,
+            "voltage_v": 227.41,
+            "current_a": 7.83,
+            "temperature_c": 39.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T23:00:00",
+            "value": 1639.46,
+            "percentage": 0.41,
+            "voltage_v": 238.64,
+            "current_a": 6.87,
+            "temperature_c": 24.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T00:00:00",
+            "value": 2224.76,
+            "percentage": 0.56,
+            "voltage_v": 220.71,
+            "current_a": 10.08,
+            "temperature_c": 38.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T01:00:00",
+            "value": 2746.39,
+            "percentage": 0.69,
+            "voltage_v": 222.38,
+            "current_a": 12.35,
+            "temperature_c": 20.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T02:00:00",
+            "value": 3033.45,
+            "percentage": 0.76,
+            "voltage_v": 224.7,
+            "current_a": 13.5,
+            "temperature_c": 31.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T03:00:00",
+            "value": 800.17,
+            "percentage": 0.2,
+            "voltage_v": 223.51,
+            "current_a": 3.58,
+            "temperature_c": 20.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T04:00:00",
+            "value": 2697.09,
+            "percentage": 0.67,
+            "voltage_v": 221.8,
+            "current_a": 12.16,
+            "temperature_c": 29.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T05:00:00",
+            "value": 2111.71,
+            "percentage": 0.53,
+            "voltage_v": 220.89,
+            "current_a": 9.56,
+            "temperature_c": 22.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T06:00:00",
+            "value": 974.0,
+            "percentage": 0.24,
+            "voltage_v": 234.7,
+            "current_a": 4.15,
+            "temperature_c": 21.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T07:00:00",
+            "value": 280.56,
+            "percentage": 0.07,
+            "voltage_v": 228.1,
+            "current_a": 1.23,
+            "temperature_c": 21.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T08:00:00",
+            "value": 2855.78,
+            "percentage": 0.71,
+            "voltage_v": 228.28,
+            "current_a": 12.51,
+            "temperature_c": 35.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T09:00:00",
+            "value": 738.27,
+            "percentage": 0.18,
+            "voltage_v": 230.71,
+            "current_a": 3.2,
+            "temperature_c": 41.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T10:00:00",
+            "value": 2478.11,
+            "percentage": 0.62,
+            "voltage_v": 237.14,
+            "current_a": 10.45,
+            "temperature_c": 24.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T11:00:00",
+            "value": 1805.02,
+            "percentage": 0.45,
+            "voltage_v": 235.95,
+            "current_a": 7.65,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T12:00:00",
+            "value": 630.75,
+            "percentage": 0.16,
+            "voltage_v": 230.2,
+            "current_a": 2.74,
+            "temperature_c": 28.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T13:00:00",
+            "value": 2497.75,
+            "percentage": 0.62,
+            "voltage_v": 222.22,
+            "current_a": 11.24,
+            "temperature_c": 23.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T14:00:00",
+            "value": 147.65,
+            "percentage": 0.04,
+            "voltage_v": 230.71,
+            "current_a": 0.64,
+            "temperature_c": 37.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T15:00:00",
+            "value": 2031.57,
+            "percentage": 0.51,
+            "voltage_v": 224.98,
+            "current_a": 9.03,
+            "temperature_c": 39.5,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T16:00:00",
+            "value": 1565.02,
+            "percentage": 0.39,
+            "voltage_v": 221.36,
+            "current_a": 7.07,
+            "temperature_c": 27.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T17:00:00",
+            "value": 2015.47,
+            "percentage": 0.5,
+            "voltage_v": 221.48,
+            "current_a": 9.1,
+            "temperature_c": 25.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T18:00:00",
+            "value": 3460.77,
+            "percentage": 0.87,
+            "voltage_v": 233.52,
+            "current_a": 14.82,
+            "temperature_c": 36.7,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T19:00:00",
+            "value": 2436.41,
+            "percentage": 0.61,
+            "voltage_v": 220.29,
+            "current_a": 11.06,
+            "temperature_c": 44.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T20:00:00",
+            "value": 3028.1,
+            "percentage": 0.76,
+            "voltage_v": 233.11,
+            "current_a": 12.99,
+            "temperature_c": 22.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T21:00:00",
+            "value": 2480.62,
+            "percentage": 0.62,
+            "voltage_v": 229.9,
+            "current_a": 10.79,
+            "temperature_c": 33.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T22:00:00",
+            "value": 359.44,
+            "percentage": 0.09,
+            "voltage_v": 239.63,
+            "current_a": 1.5,
+            "temperature_c": 25.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T23:00:00",
+            "value": 1751.95,
+            "percentage": 0.44,
+            "voltage_v": 238.36,
+            "current_a": 7.35,
+            "temperature_c": 43.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T00:00:00",
+            "value": 2871.62,
+            "percentage": 0.72,
+            "voltage_v": 232.52,
+            "current_a": 12.35,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T01:00:00",
+            "value": 1444.37,
+            "percentage": 0.36,
+            "voltage_v": 231.47,
+            "current_a": 6.24,
+            "temperature_c": 25.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T02:00:00",
+            "value": 887.31,
+            "percentage": 0.22,
+            "voltage_v": 231.07,
+            "current_a": 3.84,
+            "temperature_c": 40.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T03:00:00",
+            "value": 228.46,
+            "percentage": 0.06,
+            "voltage_v": 226.2,
+            "current_a": 1.01,
+            "temperature_c": 42.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T04:00:00",
+            "value": 2161.85,
+            "percentage": 0.54,
+            "voltage_v": 234.22,
+            "current_a": 9.23,
+            "temperature_c": 40.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T05:00:00",
+            "value": 1829.03,
+            "percentage": 0.46,
+            "voltage_v": 235.7,
+            "current_a": 7.76,
+            "temperature_c": 21.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T06:00:00",
+            "value": 3056.88,
+            "percentage": 0.76,
+            "voltage_v": 225.6,
+            "current_a": 13.55,
+            "temperature_c": 38.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T07:00:00",
+            "value": 3180.08,
+            "percentage": 0.8,
+            "voltage_v": 220.38,
+            "current_a": 14.43,
+            "temperature_c": 29.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T08:00:00",
+            "value": 1418.79,
+            "percentage": 0.35,
+            "voltage_v": 223.08,
+            "current_a": 6.36,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T09:00:00",
+            "value": 931.25,
+            "percentage": 0.23,
+            "voltage_v": 236.96,
+            "current_a": 3.93,
+            "temperature_c": 31.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T10:00:00",
+            "value": 2640.96,
+            "percentage": 0.66,
+            "voltage_v": 237.07,
+            "current_a": 11.14,
+            "temperature_c": 35.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T11:00:00",
+            "value": 214.71,
+            "percentage": 0.05,
+            "voltage_v": 230.87,
+            "current_a": 0.93,
+            "temperature_c": 44.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T12:00:00",
+            "value": 2502.87,
+            "percentage": 0.63,
+            "voltage_v": 223.87,
+            "current_a": 11.18,
+            "temperature_c": 35.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T13:00:00",
+            "value": 416.63,
+            "percentage": 0.1,
+            "voltage_v": 230.18,
+            "current_a": 1.81,
+            "temperature_c": 22.3,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T14:00:00",
-            "value": 1544.32,
-            "percentage": 0.39,
-            "voltage_v": 239.43,
-            "current_a": 6.45,
-            "temperature_c": 28.0,
+            "value": 1699.7,
+            "percentage": 0.42,
+            "voltage_v": 232.2,
+            "current_a": 7.32,
+            "temperature_c": 31.5,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T15:00:00",
-            "value": 3588.9,
-            "percentage": 0.9,
-            "voltage_v": 239.26,
-            "current_a": 15.0,
-            "temperature_c": 32.7,
+            "value": 831.77,
+            "percentage": 0.21,
+            "voltage_v": 227.26,
+            "current_a": 3.66,
+            "temperature_c": 24.0,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T16:00:00",
-            "value": 2419.69,
-            "percentage": 0.6,
-            "voltage_v": 239.1,
-            "current_a": 10.12,
-            "temperature_c": 29.5,
+            "value": 3226.0,
+            "percentage": 0.81,
+            "voltage_v": 239.14,
+            "current_a": 13.49,
+            "temperature_c": 39.1,
             "status": "active"
           },
           {
             "timestamp": "2025-12-17T17:00:00",
-            "value": 922.89,
-            "percentage": 0.23,
-            "voltage_v": 220.26,
-            "current_a": 4.19,
-            "temperature_c": 41.4,
+            "value": 468.56,
+            "percentage": 0.12,
+            "voltage_v": 239.06,
+            "current_a": 1.96,
+            "temperature_c": 40.0,
             "status": "active"
           }
         ]
@@ -907,219 +4543,1128 @@
         "label": "Garage Charger",
         "readings": [
           {
-            "timestamp": "2025-12-16T18:00:00",
-            "value": 642.66,
-            "percentage": 0.16,
-            "voltage_v": 239.8,
-            "current_a": 2.68,
-            "temperature_c": 41.2,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T19:00:00",
-            "value": 1954.9,
-            "percentage": 0.49,
-            "voltage_v": 232.45,
-            "current_a": 8.41,
-            "temperature_c": 40.2,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T20:00:00",
-            "value": 269.38,
-            "percentage": 0.07,
-            "voltage_v": 232.22,
-            "current_a": 1.16,
-            "temperature_c": 41.0,
-            "status": "error"
-          },
-          {
-            "timestamp": "2025-12-16T21:00:00",
-            "value": 1202.98,
-            "percentage": 0.3,
-            "voltage_v": 226.55,
-            "current_a": 5.31,
-            "temperature_c": 28.8,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T22:00:00",
-            "value": 1205.33,
-            "percentage": 0.3,
-            "voltage_v": 232.24,
-            "current_a": 5.19,
-            "temperature_c": 20.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-16T23:00:00",
-            "value": 2166.37,
-            "percentage": 0.54,
-            "voltage_v": 227.56,
-            "current_a": 9.52,
-            "temperature_c": 40.4,
-            "status": "error"
-          },
-          {
-            "timestamp": "2025-12-17T00:00:00",
-            "value": 2127.68,
-            "percentage": 0.53,
-            "voltage_v": 226.59,
-            "current_a": 9.39,
-            "temperature_c": 23.6,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T01:00:00",
-            "value": 2760.31,
-            "percentage": 0.69,
-            "voltage_v": 225.7,
-            "current_a": 12.23,
-            "temperature_c": 43.1,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T02:00:00",
-            "value": 1886.22,
-            "percentage": 0.47,
-            "voltage_v": 235.19,
-            "current_a": 8.02,
-            "temperature_c": 40.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T03:00:00",
-            "value": 3354.51,
-            "percentage": 0.84,
-            "voltage_v": 234.91,
-            "current_a": 14.28,
-            "temperature_c": 37.5,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T04:00:00",
-            "value": 2883.96,
-            "percentage": 0.72,
-            "voltage_v": 232.39,
-            "current_a": 12.41,
-            "temperature_c": 29.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T05:00:00",
-            "value": 2465.45,
-            "percentage": 0.62,
-            "voltage_v": 227.65,
-            "current_a": 10.83,
-            "temperature_c": 42.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T06:00:00",
-            "value": 467.36,
+            "timestamp": "2025-12-12T13:00:00",
+            "value": 469.86,
             "percentage": 0.12,
-            "voltage_v": 221.5,
-            "current_a": 2.11,
-            "temperature_c": 33.8,
+            "voltage_v": 221.63,
+            "current_a": 2.12,
+            "temperature_c": 32.2,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T07:00:00",
-            "value": 3282.36,
-            "percentage": 0.82,
-            "voltage_v": 223.29,
-            "current_a": 14.7,
-            "temperature_c": 28.3,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T08:00:00",
-            "value": 2154.49,
-            "percentage": 0.54,
-            "voltage_v": 237.54,
-            "current_a": 9.07,
-            "temperature_c": 39.7,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T09:00:00",
-            "value": 1935.94,
-            "percentage": 0.48,
-            "voltage_v": 234.66,
-            "current_a": 8.25,
-            "temperature_c": 35.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T10:00:00",
-            "value": 3103.41,
-            "percentage": 0.78,
-            "voltage_v": 223.75,
-            "current_a": 13.87,
-            "temperature_c": 31.3,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T11:00:00",
-            "value": 405.26,
-            "percentage": 0.1,
-            "voltage_v": 226.4,
-            "current_a": 1.79,
-            "temperature_c": 28.6,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T12:00:00",
-            "value": 622.96,
-            "percentage": 0.16,
-            "voltage_v": 226.53,
-            "current_a": 2.75,
-            "temperature_c": 37.6,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T13:00:00",
-            "value": 194.27,
-            "percentage": 0.05,
-            "voltage_v": 223.3,
-            "current_a": 0.87,
-            "temperature_c": 41.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T14:00:00",
-            "value": 363.15,
-            "percentage": 0.09,
-            "voltage_v": 229.84,
-            "current_a": 1.58,
-            "temperature_c": 29.6,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T15:00:00",
-            "value": 3325.82,
-            "percentage": 0.83,
-            "voltage_v": 239.44,
-            "current_a": 13.89,
-            "temperature_c": 26.0,
-            "status": "active"
-          },
-          {
-            "timestamp": "2025-12-17T16:00:00",
-            "value": 3227.96,
+            "timestamp": "2025-12-12T14:00:00",
+            "value": 3256.14,
             "percentage": 0.81,
-            "voltage_v": 234.59,
-            "current_a": 13.76,
+            "voltage_v": 233.75,
+            "current_a": 13.93,
+            "temperature_c": 31.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T15:00:00",
+            "value": 2229.22,
+            "percentage": 0.56,
+            "voltage_v": 238.93,
+            "current_a": 9.33,
             "temperature_c": 40.9,
             "status": "active"
           },
           {
-            "timestamp": "2025-12-17T17:00:00",
-            "value": 794.91,
+            "timestamp": "2025-12-12T16:00:00",
+            "value": 3006.71,
+            "percentage": 0.75,
+            "voltage_v": 229.17,
+            "current_a": 13.12,
+            "temperature_c": 39.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T17:00:00",
+            "value": 2631.82,
+            "percentage": 0.66,
+            "voltage_v": 224.75,
+            "current_a": 11.71,
+            "temperature_c": 26.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T18:00:00",
+            "value": 2375.54,
+            "percentage": 0.59,
+            "voltage_v": 227.76,
+            "current_a": 10.43,
+            "temperature_c": 44.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T19:00:00",
+            "value": 1425.4,
+            "percentage": 0.36,
+            "voltage_v": 233.29,
+            "current_a": 6.11,
+            "temperature_c": 27.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T20:00:00",
+            "value": 746.7,
+            "percentage": 0.19,
+            "voltage_v": 225.59,
+            "current_a": 3.31,
+            "temperature_c": 36.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T21:00:00",
+            "value": 2473.35,
+            "percentage": 0.62,
+            "voltage_v": 226.29,
+            "current_a": 10.93,
+            "temperature_c": 25.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T22:00:00",
+            "value": 1327.98,
+            "percentage": 0.33,
+            "voltage_v": 222.07,
+            "current_a": 5.98,
+            "temperature_c": 30.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-12T23:00:00",
+            "value": 205.11,
+            "percentage": 0.05,
+            "voltage_v": 222.95,
+            "current_a": 0.92,
+            "temperature_c": 31.0,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-13T00:00:00",
+            "value": 2981.45,
+            "percentage": 0.75,
+            "voltage_v": 233.29,
+            "current_a": 12.78,
+            "temperature_c": 39.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T01:00:00",
+            "value": 2745.2,
+            "percentage": 0.69,
+            "voltage_v": 229.34,
+            "current_a": 11.97,
+            "temperature_c": 22.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T02:00:00",
+            "value": 2717.82,
+            "percentage": 0.68,
+            "voltage_v": 232.69,
+            "current_a": 11.68,
+            "temperature_c": 31.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T03:00:00",
+            "value": 2181.16,
+            "percentage": 0.55,
+            "voltage_v": 233.03,
+            "current_a": 9.36,
+            "temperature_c": 21.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T04:00:00",
+            "value": 3499.79,
+            "percentage": 0.87,
+            "voltage_v": 239.22,
+            "current_a": 14.63,
+            "temperature_c": 30.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T05:00:00",
+            "value": 135.81,
+            "percentage": 0.03,
+            "voltage_v": 234.16,
+            "current_a": 0.58,
+            "temperature_c": 25.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T06:00:00",
+            "value": 532.44,
+            "percentage": 0.13,
+            "voltage_v": 220.93,
+            "current_a": 2.41,
+            "temperature_c": 23.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T07:00:00",
+            "value": 1643.61,
+            "percentage": 0.41,
+            "voltage_v": 225.77,
+            "current_a": 7.28,
+            "temperature_c": 23.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T08:00:00",
+            "value": 1788.49,
+            "percentage": 0.45,
+            "voltage_v": 225.25,
+            "current_a": 7.94,
+            "temperature_c": 20.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T09:00:00",
+            "value": 2609.27,
+            "percentage": 0.65,
+            "voltage_v": 224.55,
+            "current_a": 11.62,
+            "temperature_c": 42.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T10:00:00",
+            "value": 3234.2,
+            "percentage": 0.81,
+            "voltage_v": 226.01,
+            "current_a": 14.31,
+            "temperature_c": 28.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T11:00:00",
+            "value": 1749.92,
+            "percentage": 0.44,
+            "voltage_v": 229.95,
+            "current_a": 7.61,
+            "temperature_c": 22.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T12:00:00",
+            "value": 2845.06,
+            "percentage": 0.71,
+            "voltage_v": 232.82,
+            "current_a": 12.22,
+            "temperature_c": 27.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T13:00:00",
+            "value": 3102.08,
+            "percentage": 0.78,
+            "voltage_v": 235.72,
+            "current_a": 13.16,
+            "temperature_c": 33.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T14:00:00",
+            "value": 1805.05,
+            "percentage": 0.45,
+            "voltage_v": 232.91,
+            "current_a": 7.75,
+            "temperature_c": 31.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T15:00:00",
+            "value": 567.46,
+            "percentage": 0.14,
+            "voltage_v": 238.43,
+            "current_a": 2.38,
+            "temperature_c": 20.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T16:00:00",
+            "value": 1689.47,
+            "percentage": 0.42,
+            "voltage_v": 235.63,
+            "current_a": 7.17,
+            "temperature_c": 20.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T17:00:00",
+            "value": 1765.73,
+            "percentage": 0.44,
+            "voltage_v": 238.29,
+            "current_a": 7.41,
+            "temperature_c": 40.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T18:00:00",
+            "value": 1312.04,
+            "percentage": 0.33,
+            "voltage_v": 222.38,
+            "current_a": 5.9,
+            "temperature_c": 35.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T19:00:00",
+            "value": 2563.39,
+            "percentage": 0.64,
+            "voltage_v": 234.1,
+            "current_a": 10.95,
+            "temperature_c": 26.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T20:00:00",
+            "value": 137.24,
+            "percentage": 0.03,
+            "voltage_v": 221.36,
+            "current_a": 0.62,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T21:00:00",
+            "value": 3030.05,
+            "percentage": 0.76,
+            "voltage_v": 232.01,
+            "current_a": 13.06,
+            "temperature_c": 34.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T22:00:00",
+            "value": 2386.32,
+            "percentage": 0.6,
+            "voltage_v": 230.34,
+            "current_a": 10.36,
+            "temperature_c": 25.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-13T23:00:00",
+            "value": 741.32,
+            "percentage": 0.19,
+            "voltage_v": 235.34,
+            "current_a": 3.15,
+            "temperature_c": 33.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T00:00:00",
+            "value": 1544.25,
+            "percentage": 0.39,
+            "voltage_v": 225.11,
+            "current_a": 6.86,
+            "temperature_c": 28.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T01:00:00",
+            "value": 3435.52,
+            "percentage": 0.86,
+            "voltage_v": 237.26,
+            "current_a": 14.48,
+            "temperature_c": 34.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T02:00:00",
+            "value": 2455.04,
+            "percentage": 0.61,
+            "voltage_v": 226.48,
+            "current_a": 10.84,
+            "temperature_c": 22.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T03:00:00",
+            "value": 2348.56,
+            "percentage": 0.59,
+            "voltage_v": 223.46,
+            "current_a": 10.51,
+            "temperature_c": 23.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T04:00:00",
+            "value": 357.65,
+            "percentage": 0.09,
+            "voltage_v": 227.8,
+            "current_a": 1.57,
+            "temperature_c": 39.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T05:00:00",
+            "value": 1093.55,
+            "percentage": 0.27,
+            "voltage_v": 236.7,
+            "current_a": 4.62,
+            "temperature_c": 35.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T06:00:00",
+            "value": 1148.62,
+            "percentage": 0.29,
+            "voltage_v": 231.11,
+            "current_a": 4.97,
+            "temperature_c": 39.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T07:00:00",
+            "value": 2334.91,
+            "percentage": 0.58,
+            "voltage_v": 223.01,
+            "current_a": 10.47,
+            "temperature_c": 22.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T08:00:00",
+            "value": 348.18,
+            "percentage": 0.09,
+            "voltage_v": 224.63,
+            "current_a": 1.55,
+            "temperature_c": 31.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T09:00:00",
+            "value": 792.35,
             "percentage": 0.2,
-            "voltage_v": 230.41,
-            "current_a": 3.45,
-            "temperature_c": 31.1,
+            "voltage_v": 220.71,
+            "current_a": 3.59,
+            "temperature_c": 39.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T10:00:00",
+            "value": 956.62,
+            "percentage": 0.24,
+            "voltage_v": 222.47,
+            "current_a": 4.3,
+            "temperature_c": 38.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T11:00:00",
+            "value": 1413.28,
+            "percentage": 0.35,
+            "voltage_v": 235.94,
+            "current_a": 5.99,
+            "temperature_c": 28.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T12:00:00",
+            "value": 3294.2,
+            "percentage": 0.82,
+            "voltage_v": 225.63,
+            "current_a": 14.6,
+            "temperature_c": 30.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T13:00:00",
+            "value": 132.13,
+            "percentage": 0.03,
+            "voltage_v": 227.81,
+            "current_a": 0.58,
+            "temperature_c": 38.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T14:00:00",
+            "value": 2474.7,
+            "percentage": 0.62,
+            "voltage_v": 235.91,
+            "current_a": 10.49,
+            "temperature_c": 36.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T15:00:00",
+            "value": 193.57,
+            "percentage": 0.05,
+            "voltage_v": 227.73,
+            "current_a": 0.85,
+            "temperature_c": 40.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T16:00:00",
+            "value": 1864.88,
+            "percentage": 0.47,
+            "voltage_v": 236.66,
+            "current_a": 7.88,
+            "temperature_c": 31.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T17:00:00",
+            "value": 3324.82,
+            "percentage": 0.83,
+            "voltage_v": 239.54,
+            "current_a": 13.88,
+            "temperature_c": 40.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T18:00:00",
+            "value": 2508.33,
+            "percentage": 0.63,
+            "voltage_v": 232.9,
+            "current_a": 10.77,
+            "temperature_c": 30.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T19:00:00",
+            "value": 1238.25,
+            "percentage": 0.31,
+            "voltage_v": 239.97,
+            "current_a": 5.16,
+            "temperature_c": 23.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T20:00:00",
+            "value": 2811.98,
+            "percentage": 0.7,
+            "voltage_v": 232.78,
+            "current_a": 12.08,
+            "temperature_c": 37.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T21:00:00",
+            "value": 3320.93,
+            "percentage": 0.83,
+            "voltage_v": 238.23,
+            "current_a": 13.94,
+            "temperature_c": 41.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T22:00:00",
+            "value": 1173.03,
+            "percentage": 0.29,
+            "voltage_v": 223.86,
+            "current_a": 5.24,
+            "temperature_c": 27.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-14T23:00:00",
+            "value": 3345.11,
+            "percentage": 0.84,
+            "voltage_v": 233.76,
+            "current_a": 14.31,
+            "temperature_c": 32.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T00:00:00",
+            "value": 370.99,
+            "percentage": 0.09,
+            "voltage_v": 230.43,
+            "current_a": 1.61,
+            "temperature_c": 34.8,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-15T01:00:00",
+            "value": 2821.58,
+            "percentage": 0.71,
+            "voltage_v": 236.71,
+            "current_a": 11.92,
+            "temperature_c": 41.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T02:00:00",
+            "value": 2159.49,
+            "percentage": 0.54,
+            "voltage_v": 222.17,
+            "current_a": 9.72,
+            "temperature_c": 25.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T03:00:00",
+            "value": 1783.34,
+            "percentage": 0.45,
+            "voltage_v": 234.65,
+            "current_a": 7.6,
+            "temperature_c": 35.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T04:00:00",
+            "value": 1795.04,
+            "percentage": 0.45,
+            "voltage_v": 235.57,
+            "current_a": 7.62,
+            "temperature_c": 21.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T05:00:00",
+            "value": 408.97,
+            "percentage": 0.1,
+            "voltage_v": 229.76,
+            "current_a": 1.78,
+            "temperature_c": 40.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T06:00:00",
+            "value": 1868.17,
+            "percentage": 0.47,
+            "voltage_v": 235.88,
+            "current_a": 7.92,
+            "temperature_c": 42.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T07:00:00",
+            "value": 610.83,
+            "percentage": 0.15,
+            "voltage_v": 224.57,
+            "current_a": 2.72,
+            "temperature_c": 34.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T08:00:00",
+            "value": 2942.88,
+            "percentage": 0.74,
+            "voltage_v": 238.87,
+            "current_a": 12.32,
+            "temperature_c": 37.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T09:00:00",
+            "value": 708.82,
+            "percentage": 0.18,
+            "voltage_v": 231.64,
+            "current_a": 3.06,
+            "temperature_c": 23.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T10:00:00",
+            "value": 708.6,
+            "percentage": 0.18,
+            "voltage_v": 222.83,
+            "current_a": 3.18,
+            "temperature_c": 27.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T11:00:00",
+            "value": 2387.62,
+            "percentage": 0.6,
+            "voltage_v": 228.48,
+            "current_a": 10.45,
+            "temperature_c": 36.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T12:00:00",
+            "value": 557.84,
+            "percentage": 0.14,
+            "voltage_v": 227.69,
+            "current_a": 2.45,
+            "temperature_c": 40.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T13:00:00",
+            "value": 2657.66,
+            "percentage": 0.66,
+            "voltage_v": 230.1,
+            "current_a": 11.55,
+            "temperature_c": 21.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T14:00:00",
+            "value": 2406.83,
+            "percentage": 0.6,
+            "voltage_v": 239.01,
+            "current_a": 10.07,
+            "temperature_c": 28.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T15:00:00",
+            "value": 2305.44,
+            "percentage": 0.58,
+            "voltage_v": 235.73,
+            "current_a": 9.78,
+            "temperature_c": 30.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T16:00:00",
+            "value": 1059.94,
+            "percentage": 0.26,
+            "voltage_v": 220.82,
+            "current_a": 4.8,
+            "temperature_c": 26.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T17:00:00",
+            "value": 2741.78,
+            "percentage": 0.69,
+            "voltage_v": 229.63,
+            "current_a": 11.94,
+            "temperature_c": 29.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T18:00:00",
+            "value": 2979.93,
+            "percentage": 0.74,
+            "voltage_v": 234.64,
+            "current_a": 12.7,
+            "temperature_c": 24.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T19:00:00",
+            "value": 444.39,
+            "percentage": 0.11,
+            "voltage_v": 227.89,
+            "current_a": 1.95,
+            "temperature_c": 39.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T20:00:00",
+            "value": 2386.19,
+            "percentage": 0.6,
+            "voltage_v": 234.63,
+            "current_a": 10.17,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T21:00:00",
+            "value": 2227.95,
+            "percentage": 0.56,
+            "voltage_v": 227.11,
+            "current_a": 9.81,
+            "temperature_c": 45.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T22:00:00",
+            "value": 606.88,
+            "percentage": 0.15,
+            "voltage_v": 224.77,
+            "current_a": 2.7,
+            "temperature_c": 40.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-15T23:00:00",
+            "value": 1480.07,
+            "percentage": 0.37,
+            "voltage_v": 232.35,
+            "current_a": 6.37,
+            "temperature_c": 21.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T00:00:00",
+            "value": 2611.18,
+            "percentage": 0.65,
+            "voltage_v": 235.03,
+            "current_a": 11.11,
+            "temperature_c": 36.4,
+            "status": "error"
+          },
+          {
+            "timestamp": "2025-12-16T01:00:00",
+            "value": 1398.75,
+            "percentage": 0.35,
+            "voltage_v": 232.35,
+            "current_a": 6.02,
+            "temperature_c": 24.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T02:00:00",
+            "value": 2945.95,
+            "percentage": 0.74,
+            "voltage_v": 224.71,
+            "current_a": 13.11,
+            "temperature_c": 21.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T03:00:00",
+            "value": 330.4,
+            "percentage": 0.08,
+            "voltage_v": 224.76,
+            "current_a": 1.47,
+            "temperature_c": 40.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T04:00:00",
+            "value": 3086.83,
+            "percentage": 0.77,
+            "voltage_v": 224.66,
+            "current_a": 13.74,
+            "temperature_c": 35.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T05:00:00",
+            "value": 3426.4,
+            "percentage": 0.86,
+            "voltage_v": 232.93,
+            "current_a": 14.71,
+            "temperature_c": 38.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T06:00:00",
+            "value": 2852.29,
+            "percentage": 0.71,
+            "voltage_v": 229.1,
+            "current_a": 12.45,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T07:00:00",
+            "value": 2998.62,
+            "percentage": 0.75,
+            "voltage_v": 225.8,
+            "current_a": 13.28,
+            "temperature_c": 42.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T08:00:00",
+            "value": 757.2,
+            "percentage": 0.19,
+            "voltage_v": 231.56,
+            "current_a": 3.27,
+            "temperature_c": 20.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T09:00:00",
+            "value": 521.76,
+            "percentage": 0.13,
+            "voltage_v": 232.93,
+            "current_a": 2.24,
+            "temperature_c": 35.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T10:00:00",
+            "value": 1188.02,
+            "percentage": 0.3,
+            "voltage_v": 238.08,
+            "current_a": 4.99,
+            "temperature_c": 34.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T11:00:00",
+            "value": 2748.96,
+            "percentage": 0.69,
+            "voltage_v": 239.04,
+            "current_a": 11.5,
+            "temperature_c": 32.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T12:00:00",
+            "value": 2753.71,
+            "percentage": 0.69,
+            "voltage_v": 235.36,
+            "current_a": 11.7,
+            "temperature_c": 29.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T13:00:00",
+            "value": 547.33,
+            "percentage": 0.14,
+            "voltage_v": 235.92,
+            "current_a": 2.32,
+            "temperature_c": 34.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T14:00:00",
+            "value": 2600.91,
+            "percentage": 0.65,
+            "voltage_v": 222.3,
+            "current_a": 11.7,
+            "temperature_c": 32.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T15:00:00",
+            "value": 1278.83,
+            "percentage": 0.32,
+            "voltage_v": 236.82,
+            "current_a": 5.4,
+            "temperature_c": 42.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T16:00:00",
+            "value": 3339.16,
+            "percentage": 0.83,
+            "voltage_v": 239.71,
+            "current_a": 13.93,
+            "temperature_c": 20.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T17:00:00",
+            "value": 1043.76,
+            "percentage": 0.26,
+            "voltage_v": 230.92,
+            "current_a": 4.52,
+            "temperature_c": 32.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T18:00:00",
+            "value": 1074.97,
+            "percentage": 0.27,
+            "voltage_v": 233.69,
+            "current_a": 4.6,
+            "temperature_c": 27.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T19:00:00",
+            "value": 3191.53,
+            "percentage": 0.8,
+            "voltage_v": 226.51,
+            "current_a": 14.09,
+            "temperature_c": 31.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T20:00:00",
+            "value": 1930.32,
+            "percentage": 0.48,
+            "voltage_v": 233.13,
+            "current_a": 8.28,
+            "temperature_c": 22.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T21:00:00",
+            "value": 3474.04,
+            "percentage": 0.87,
+            "voltage_v": 234.1,
+            "current_a": 14.84,
+            "temperature_c": 30.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T22:00:00",
+            "value": 1929.12,
+            "percentage": 0.48,
+            "voltage_v": 223.02,
+            "current_a": 8.65,
+            "temperature_c": 41.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-16T23:00:00",
+            "value": 1854.49,
+            "percentage": 0.46,
+            "voltage_v": 225.06,
+            "current_a": 8.24,
+            "temperature_c": 25.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T00:00:00",
+            "value": 862.25,
+            "percentage": 0.22,
+            "voltage_v": 221.09,
+            "current_a": 3.9,
+            "temperature_c": 42.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T01:00:00",
+            "value": 415.01,
+            "percentage": 0.1,
+            "voltage_v": 221.93,
+            "current_a": 1.87,
+            "temperature_c": 24.3,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T02:00:00",
+            "value": 1726.92,
+            "percentage": 0.43,
+            "voltage_v": 224.86,
+            "current_a": 7.68,
+            "temperature_c": 43.8,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T03:00:00",
+            "value": 593.92,
+            "percentage": 0.15,
+            "voltage_v": 228.43,
+            "current_a": 2.6,
+            "temperature_c": 41.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T04:00:00",
+            "value": 356.29,
+            "percentage": 0.09,
+            "voltage_v": 232.87,
+            "current_a": 1.53,
+            "temperature_c": 29.0,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T05:00:00",
+            "value": 2291.47,
+            "percentage": 0.57,
+            "voltage_v": 230.53,
+            "current_a": 9.94,
+            "temperature_c": 22.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T06:00:00",
+            "value": 2151.18,
+            "percentage": 0.54,
+            "voltage_v": 231.31,
+            "current_a": 9.3,
+            "temperature_c": 40.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T07:00:00",
+            "value": 2779.01,
+            "percentage": 0.69,
+            "voltage_v": 236.31,
+            "current_a": 11.76,
+            "temperature_c": 23.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T08:00:00",
+            "value": 2040.33,
+            "percentage": 0.51,
+            "voltage_v": 234.79,
+            "current_a": 8.69,
+            "temperature_c": 32.7,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T09:00:00",
+            "value": 1779.02,
+            "percentage": 0.44,
+            "voltage_v": 239.76,
+            "current_a": 7.42,
+            "temperature_c": 36.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T10:00:00",
+            "value": 538.16,
+            "percentage": 0.13,
+            "voltage_v": 230.97,
+            "current_a": 2.33,
+            "temperature_c": 35.5,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T11:00:00",
+            "value": 2652.82,
+            "percentage": 0.66,
+            "voltage_v": 226.35,
+            "current_a": 11.72,
+            "temperature_c": 28.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T12:00:00",
+            "value": 2357.29,
+            "percentage": 0.59,
+            "voltage_v": 237.87,
+            "current_a": 9.91,
+            "temperature_c": 33.9,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T13:00:00",
+            "value": 1426.87,
+            "percentage": 0.36,
+            "voltage_v": 232.39,
+            "current_a": 6.14,
+            "temperature_c": 43.4,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T14:00:00",
+            "value": 1815.04,
+            "percentage": 0.45,
+            "voltage_v": 237.26,
+            "current_a": 7.65,
+            "temperature_c": 42.6,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T15:00:00",
+            "value": 2249.25,
+            "percentage": 0.56,
+            "voltage_v": 233.81,
+            "current_a": 9.62,
+            "temperature_c": 38.1,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T16:00:00",
+            "value": 2027.45,
+            "percentage": 0.51,
+            "voltage_v": 229.09,
+            "current_a": 8.85,
+            "temperature_c": 34.2,
+            "status": "active"
+          },
+          {
+            "timestamp": "2025-12-17T17:00:00",
+            "value": 667.79,
+            "percentage": 0.17,
+            "voltage_v": 229.48,
+            "current_a": 2.91,
+            "temperature_c": 31.2,
             "status": "active"
           }
         ]
