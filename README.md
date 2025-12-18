@@ -17,5 +17,9 @@ Kinesis → Firehose → S3 (raw) → Glue Crawler → Glue Data Catalog
 
 ## Despliegue de infraestructura
 ```powershell
+aws configure
+<CONFIGURE YOUR AWS CREDENTIALS>
+
 cd scripts
 .\run_all.ps1
+```
