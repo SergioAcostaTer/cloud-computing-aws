@@ -1,5 +1,7 @@
 # Computación en la Nube – Práctica 7
 
+**Página 1 de 6**
+
 ## 1. REQUISITOS FORMALES DE LA MEMORIA
 
 ### 1.1. Formato del documento
@@ -34,9 +36,13 @@ Todas las figuras y tablas deben cumplir las siguientes normas:
 El código fuente incluido en la memoria debe seguir estas directrices:
 
 * Utilizar fuente monoespaciada: Consolas o Courier New, 10 pt.
-* Incluir el código en recuadros o con fondo gris claro (#F5F5F5) para diferenciarlo del texto.
+* Incluir el código en recuadros o con fondo gris claro (`#F5F5F5`) para diferenciarlo del texto.
 * Añadir comentarios explicativos en el código cuando sea necesario.
-* Si el código es extenso, incluirlo como anexo al final del documento. En **TODOS** los casos se ha de incluir la totalidad del código en la memoria.
+* Si el código es extenso, incluirlo como anexo al final del documento. **En TODOS los casos se ha incluir la totalidad del código en la memoria.**
+
+---
+
+**Página 2 de 6**
 
 ## 2. ESTRUCTURA OBLIGATORIA DE LA MEMORIA
 
@@ -60,11 +66,13 @@ Este es el apartado principal de la memoria. Se debe documentar cada actividad d
 
 #### 2.4.1. Configuración del bucket S3
 
-Documentar la creación del bucket y la estructura de carpetas (raw, processed, config). Incluir capturas de pantalla de la consola AWS y justificar las decisiones de configuración tomadas.
+Documentar la creación del bucket y la estructura de carpetas (raw, processed, config).
+Incluir capturas de pantalla de la consola AWS y justificar las decisiones de configuración tomadas.
 
 #### 2.4.2. Implementación del productor de datos
 
-Incluir el código completo del productor con comentarios. Explicar el tipo de datos generados (logs, métricas o transacciones) y la frecuencia de envío al Kinesis Data Stream.
+Incluir el código completo del productor con comentarios.
+Explicar el tipo de datos generados (logs, métricas o transacciones) y la frecuencia de envío al Kinesis Data Stream.
 
 #### 2.4.3. Configuración del consumidor (Kinesis Firehose)
 
@@ -74,13 +82,20 @@ Documentar la configuración de Firehose, incluyendo las transformaciones aplica
 
 Describir la configuración del crawler, el esquema generado en el Catálogo de Datos y el trabajo ETL implementado.
 
+---
+
+**Página 3 de 6**
+
 ### 2.5. Diagrama del flujo de datos
 
-Incluir un diagrama de arquitectura que muestre el flujo completo de datos desde el productor hasta el almacenamiento final en S3. Se recomienda usar herramientas como draw.io, Lucidchart o AWS Architecture Icons.
+Incluir un diagrama de arquitectura que muestre el flujo completo de datos desde el productor hasta el almacenamiento final en S3.
+Se recomienda usar herramientas como draw.io, Lucidchart o AWS Architecture Icons.
 
 ### 2.6. Presupuesto y estimación de costes
 
-Detallar los costes estimados de cada servicio AWS utilizado. Incluir una tabla con el desglose de costes y el total estimado mensual y anual en un supuesto de uso real con los datos aportados y los supuestos. Utilizar la calculadora de precios de AWS como referencia, detallando tanto lo que se asume como la forma en que se llega al precio.
+Detallar los costes estimados de cada servicio AWS utilizado.
+Incluir una tabla con el desglose de costes y el total estimado mensual y anual en un supuesto de uso real con los datos aportados y los supuestos.
+Utilizar la calculadora de precios de AWS como referencia, detallar tanto lo que asumen como la forma en que llegan al precio.
 
 ### 2.7. Conclusiones
 
@@ -92,23 +107,30 @@ Listado de todas las fuentes consultadas (documentación oficial de AWS, tutoria
 
 ### 2.9. Anexos
 
-Código fuente completo, configuraciones JSON/YAML extensas, capturas adicionales u otro material complementario. Identificación de si se ha realizado el uso de IA y cómo.
+Código fuente completo, configuraciones JSON/YAML extensas, capturas adicionales u otro material complementario.
+Identificación de si se ha realizado el uso de IA y como.
+
+---
+
+**Página 4 de 6**
 
 ## 3. CRITERIOS DE EVALUACIÓN
 
 La memoria se evaluará sobre un total de 10 puntos, distribuidos de la siguiente forma:
 
-| Criterio           | Puntos | Peso |
-| ------------------ | ------ | ---- |
-| Entrega de memoria | 10     | 100% |
-| **TOTAL**          | 10     | 100% |
+| Criterio           | Puntos | Peso     |
+| ------------------ | ------ | -------- |
+| Entrega de memoria | 10     | 100%     |
+| **TOTAL**          | **10** | **100%** |
 
-Teniendo en cuenta que la replicación del mismo tipo de datos o esquema de datos al entregado, así como cualquier variación sobre él, implica el suspenso automático de la práctica. Asimismo, para poder aprobarla es requisito y su incumplimiento implica suspenso:
+Teniendo en cuenta que la replicación del mismo tipo de datos o esquema de datos al entregado, así cualquier variación sobre él implica el suspenso automático de la práctica.
+
+Así mismo para poder aprobar la misma es requisito y su incumplimiento implica un suspenso en la práctica:
 
 1. Haber realizado la correcta ejecución de la práctica en AWS.
 2. Haberlo hecho en su cuenta de AWS de forma individual y autónoma.
 3. Que la práctica esté correctamente documentada y sea reproducible.
-4. Tener todos los apartados evaluables entregados de forma adecuada.
+4. Tener todos los apartados evaluables entregados de forma adecuada, la omisión, incumplimiento o la obtención de un 0 en cualquiera de los apartados ej.: no añadir todos los apartados en la sección presentación y formato, no explicar todos los pasos, aunque sea de forma breve, no adjuntar el diagrama o no adjuntar presupuesto.
 
 ### 3.1. Desglose de la evaluación de la memoria (10 puntos)
 
@@ -116,9 +138,13 @@ Teniendo en cuenta que la replicación del mismo tipo de datos o esquema de dato
 | ------------------------------------------------------ | ------ | ---- |
 | Presentación y formato (cumplimiento de requisitos)    | 3      | 30%  |
 | Descripción de los pasos seguidos (claridad y detalle) | 4      | 40%  |
-| Código y configuraciones de recursos                   | 1      | 10%  |
+| Código y configuraciones de Recursos                   | 1      | 10%  |
 | Diagrama del flujo de datos                            | 1      | 10%  |
 | Presupuesto y estimación de gasto                      | 1      | 10%  |
+
+---
+
+**Página 5 de 6**
 
 ## 4. DESCRIPCIÓN DE LAS ACTIVIDADES
 
@@ -128,17 +154,29 @@ El objetivo de esta práctica es aprender a gestionar la ingesta y procesamiento
 
 1. Configurar un bucket S3 con la estructura de carpetas adecuada para almacenar datos sin procesar, datos procesados, scripts y configuraciones.
 2. Implementar un productor de datos que genere registros simulados (logs, métricas o transacciones) y los envíe a un Kinesis Data Stream.
-3. Configurar un consumidor usando Kinesis Firehose que recoja los datos del stream, realice una transformación básica (filtrado o enriquecimiento) y almacene los resultados en el bucket S3 en la carpeta de datos procesados.
-4. Utilizar AWS Glue para crear un crawler que analice los datos en S3, definir un esquema en el Catálogo de Datos y crear y ejecutar un trabajo ETL simple.
+3. Configurar un consumidor usando Kinesis Firehose que:
+
+   * recoja los datos del stream,
+   * realice una transformación básica (ej., filtrado o enriquecimiento),
+   * y almacene los resultados en el bucket S3 en la carpeta de datos procesados.
+4. Utilizar AWS Glue para:
+
+   * crear un crawler que analice los datos en S3,
+   * definir un esquema en el Catálogo de Datos,
+   * crear y ejecutar un trabajo ETL simple.
+
+---
+
+**Página 6 de 6**
 
 ## 5. RECOMENDACIONES FINALES
 
-* Revisar la fecha de entrega de la memoria en el Moodle.
+* Revisar la fecha de entrega de la memoria en el moodle.
 * Revisar la memoria antes de la entrega.
 * Revisar la ortografía y gramática del documento.
 * Asegurarse de que todas las figuras y tablas sean legibles.
-* Incluir capturas de pantalla relevantes que demuestren la correcta realización de cada paso.
+* Incluir capturas de pantalla relevantes que demuestren la correcta realización de cada paso si fuera relevante.
 * El código debe estar correctamente formateado e indentado.
 * Verificar que el archivo PDF se abre correctamente y que todas las páginas son visibles.
-* Revisar que la entrega se realice en la asignatura y práctica correcta.
+* Revisar que la entrega se realiza en la asignatura y práctica correcta.
 * Eliminar los recursos de AWS al finalizar la práctica para evitar costes adicionales.
