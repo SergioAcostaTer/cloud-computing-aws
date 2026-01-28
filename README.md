@@ -1,4 +1,4 @@
-# ULPGC Cloud Computing - AWS Projects
+Cloud Computing - AWS Projects
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)
